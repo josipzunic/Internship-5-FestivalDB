@@ -112,6 +112,8 @@ CREATE TABLE Tickets (
 	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId)
 );
 
+ALTER TABLE Tickets
+ADD COLUMN Price NUMERIC(10,2) NOT NULL;
 
 CREATE TABLE Atendees (
 	AtendeeId SERIAL PRIMARY KEY,
@@ -202,3 +204,37 @@ CREATE TABLE Staff (
 ALTER TABLE Staff
 	ADD CONSTRAINT StaffUnderage
 	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) < 21)
+
+CREATE TYPE validityStatus AS ENUM ('active', 'expired');
+
+CREATE TABLE MembershipCardHolders (
+	MembershipCardHolderId SERIAL PRIMARY KEY,
+	AtendeeId INT NOT NULL REFERENCES Atendees(AtendeeId),
+	Status validityStatus NOT NULL
+);
+
+CREATE OR REPLACE FUNCTION checkMembershipCardCondition()
+RETURNS TRIGGER AS $$
+DECLARE
+	totalSpent NUMERIC;
+	festivalCount INT;
+BEGIN 
+	SELECT 
+		SUM (PurchasedItems.Quantity*Tickets.Price),
+		COUNT (DISTINCT Purchases.FestivalId)
+	INTO totalSpent, festivalCount
+	FROM Purchases 
+	JOIN PurchasedItems ON Purchases.PurchaseId = PurchasedItems.PurchaseId
+	JOIN TicketPrices ON PurchasedItems.TicketId = TicketPrices.TicketId
+	WHERE Purchases.AtendeeId = NEW.AtendeeId;
+	IF COALESCE(totalSpent,0) < 600 AND festivalCount < 3
+		THEN RETURN NULL;
+	END IF;
+END;
+$$ LANGUAGE plpgsql;
+CREATE TRIGGER membership_card_check
+BEFORE INSERT ON MembershipCardHolders
+FOR EACH ROW
+EXECUTE FUNCTION checkMembershipCardCondition();
+		
+
