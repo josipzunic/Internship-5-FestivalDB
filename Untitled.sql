@@ -113,3 +113,27 @@ CREATE TABLE Tickets (
 );
 
 
+CREATE TABLE Atendees (
+	AtendeeId SERIAL PRIMARY KEY,
+	Name VARCHAR(50) NOT NULL,
+	Surname VARCHAR(50) NOT NULL,
+	DateOfBirth TIMESTAMP NOT NULL,
+	City VARCHAR(50) NOT NULL,
+	Email VARCHAR(100) NOT NULL,
+	Country VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Purchases (
+	AtendeeId INT NOT NULL REFERENCES Atendees(AtendeeId),
+	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId),
+	PurchaseDate TIMESTAMP NOT NULL DEFAULT NOW(),
+	PurchaseId SERIAL PRIMARY KEY
+);
+
+CREATE TABLE PurchasedItems (
+	PurchasedItemId SERIAL PRIMARY KEY,
+	PurchaseId INT NOT NULL REFERENCES Purchases(PurchaseId),
+	TicketId INT NOT NULL REFERENCES Tickets(TicketId),
+	Quantity INT NOT NULL
+);
+
