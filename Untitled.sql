@@ -20,11 +20,17 @@ FROM pg_constraint
 WHERE conrelid = 'festivals'::regclass;
 
 ALTER TABLE Festivals
-DROP CONSTRAINT "festivals_pkey";
+DROP CONSTRAINT "startvsendtime";
 
 ALTER TABLE Festivals
 	ADD CONSTRAINT StartVsEndTime
 	CHECK(DateOfStart < DateOfEnd)
+
+ALTER TABLE Festivals
+	ADD CONSTRAINT NegativeCapacity
+	CHECK(Capacity > 0)
+
+
 
 CREATE TYPE location AS ENUM ('main', 'forest', 'beach');
 
@@ -50,6 +56,10 @@ CREATE TABLE Performers (
 	IsActive BOOLEAN DEFAULT TRUE
 );
 
+ALTER TABLE Performers
+	ADD CONSTRAINT NegativePerformers
+	CHECK(MembersCount > 0)
+
 CREATE TABLE Performances (
 	PerformanceId SERIAL PRIMARY KEY,
 	StartTime TIMESTAMP NOT NULL,
@@ -63,10 +73,34 @@ CREATE TABLE Performances (
 	FOREIGN KEY (PerformerId) REFERENCES Performers(PerformerId)
 );
 
+ALTER TABLE Performances
+DROP CONSTRAINT "startvsendtime";
 
 ALTER TABLE Performances
 	ADD CONSTRAINT StartVsEndTime
 	CHECK(StartTime < EndTime)
+
+CREATE OR REPLACE FUNCTION checkFrontRowOccupation()
+RETURNS TRIGGER AS $$
+DECLARE 
+	maxInFirstRow INT;
+BEGIN
+	SELECT MaxPeopleFirstRows
+	INTO maxInFirstRow
+	FROM Stage
+	WHERE StageId = NEW.StageId;
+	IF NEW.ExpectedAttendance < 0 OR NEW.ExpectedAttendance > maxInFirstRow THEN
+		return NULL;
+	END IF;
+	RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+CREATE TRIGGER preventFrontRowOverfilling
+BEFORE INSERT OR UPDATE ON PERFORMANCES
+FOR EACH ROW
+EXECUTE FUNCTION checkFrontRowOccupation()
+	
+	
 
 CREATE OR REPLACE FUNCTION checkStagePerformanceOverlap()
 RETURNS TRIGGER AS $$
@@ -99,12 +133,6 @@ CREATE TABLE TicketDescriptions (
 	Description VARCHAR(100) NOT NULL
 );
 
-CREATE TABLE TicketValidities (
-	TicketId INT NOT NULL REFERENCES Tickets(TicketId),
-	ValidDate DATE,
-	PRIMARY KEY (TicketId, ValidDate)
-);
-
 CREATE TABLE Tickets (
 	TicketId SERIAL PRIMARY KEY,
 	TicketType ticketType NOT NULL,
@@ -112,8 +140,19 @@ CREATE TABLE Tickets (
 	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId)
 );
 
+CREATE TABLE TicketValidities (
+	TicketId INT NOT NULL REFERENCES Tickets(TicketId),
+	ValidDate DATE,
+	PRIMARY KEY (TicketId, ValidDate)
+);
+
+
 ALTER TABLE Tickets
 ADD COLUMN Price NUMERIC(10,2) NOT NULL;
+
+ALTER TABLE Tickets
+	ADD CONSTRAINT NegativePrice
+	CHECK(Price >= 0)
 
 CREATE TABLE Atendees (
 	AtendeeId SERIAL PRIMARY KEY,
@@ -124,6 +163,13 @@ CREATE TABLE Atendees (
 	Email VARCHAR(100) NOT NULL,
 	Country VARCHAR(50) NOT NULL
 );
+
+ALTER TABLE Atendees
+	ADD CONSTRAINT ValidDateOfBirth
+	CHECK (DateOfBirth <= CURRENT_DATE)
+
+ALTER TABLE Atendees
+	ADD UNIQUE (Email);
 
 CREATE TABLE Purchases (
 	AtendeeId INT NOT NULL REFERENCES Atendees(AtendeeId),
@@ -139,11 +185,15 @@ CREATE TABLE PurchasedItems (
 	Quantity INT NOT NULL
 );
 
+ALTER TABLE PurchasedItems
+	ADD CONSTRAINT NegativeQuantity
+	CHECK (Quantity >= 0)
+
 CREATE TYPE difficulty as ENUM ('beginner', 'intermediate', 'advanced');
 
 CREATE TABLE WorkshopDescriptions (
 	WorkshopDescriptionId SERIAL PRIMARY KEY,
-	WorkshopDescription VARCHAR(100)
+	WorkshopDescription VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE Workshops (
@@ -157,6 +207,14 @@ CREATE TABLE Workshops (
 	Duration INTERVAL NOT NULL
 );
 
+ALTER TABLE Workshops
+	ADD CONSTRAINT WorkshopCapacity
+	CHECK (Capacity > 0)
+
+ALTER TABLE Workshops
+	ADD CONSTRAINT WorkshopDuration
+	CHECK (Duration > INTERVAL '0')
+
 CREATE TABLE Instructors (
 	InstructorId SERIAL PRIMARY KEY,
 	Name VARCHAR(100),
@@ -169,11 +227,11 @@ CREATE TABLE Instructors (
 
 ALTER TABLE Instructors
 	ADD CONSTRAINT InstructorUnderage
-	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) < 18)
+	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) >= 18)
 
 ALTER TABLE Instructors
 	ADD CONSTRAINT InstructorInexperienced
-	CHECK(YearsOfExperience < 2)
+	CHECK(YearsOfExperience >= 2)
 
 CREATE TYPE applicationStatus AS ENUM ('applied', 'cancelled', 'attended');
 
@@ -203,7 +261,7 @@ CREATE TABLE Staff (
 
 ALTER TABLE Staff
 	ADD CONSTRAINT StaffUnderage
-	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) < 21)
+	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) >= 21)
 
 CREATE TYPE validityStatus AS ENUM ('active', 'expired');
 
@@ -225,11 +283,12 @@ BEGIN
 	INTO totalSpent, festivalCount
 	FROM Purchases 
 	JOIN PurchasedItems ON Purchases.PurchaseId = PurchasedItems.PurchaseId
-	JOIN TicketPrices ON PurchasedItems.TicketId = TicketPrices.TicketId
+	JOIN Tickets ON PurchasedItems.TicketId = Tickets.TicketId
 	WHERE Purchases.AtendeeId = NEW.AtendeeId;
-	IF COALESCE(totalSpent,0) < 600 AND festivalCount < 3
+	IF COALESCE(totalSpent,0) <= 600 OR festivalCount <= 3
 		THEN RETURN NULL;
 	END IF;
+	RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
 CREATE TRIGGER membership_card_check
