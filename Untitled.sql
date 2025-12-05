@@ -137,3 +137,68 @@ CREATE TABLE PurchasedItems (
 	Quantity INT NOT NULL
 );
 
+CREATE TYPE difficulty as ENUM ('beginner', 'intermediate', 'advanced');
+
+CREATE TABLE WorkshopDescriptions (
+	WorkshopDescriptionId SERIAL PRIMARY KEY,
+	WorkshopDescription VARCHAR(100)
+);
+
+CREATE TABLE Workshops (
+	WorkshopDescriptionId INT NOT NULL REFERENCES WorkshopDescriptions(WorkshopDescriptionId),
+	WorkshopId SERIAL PRIMARY KEY,
+	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId),
+	Name VARCHAR(50) NOT NULL,
+	Difficulty difficulty NOT NULL,
+	Capacity INT NOT NULL,
+	PriorKnowledgeNeeded BOOLEAN DEFAULT FALSE,
+	Duration INTERVAL NOT NULL
+);
+
+CREATE TABLE Instructors (
+	InstructorId SERIAL PRIMARY KEY,
+	Name VARCHAR(100),
+	Surname VARCHAR(100),
+	DateOfBirth TIMESTAMP,
+	WorkshopDescription INT NOT NULL REFERENCES WorkshopDescriptions(WorkshopDescriptionId),
+	YearsOfExperience INT NOT NULL
+);
+
+
+ALTER TABLE Instructors
+	ADD CONSTRAINT InstructorUnderage
+	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) < 18)
+
+ALTER TABLE Instructors
+	ADD CONSTRAINT InstructorInexperienced
+	CHECK(YearsOfExperience < 2)
+
+CREATE TYPE applicationStatus AS ENUM ('applied', 'cancelled', 'attended');
+
+CREATE TABLE WorkshopApplications (
+	AtendeeId INT NOT NULL REFERENCES Atendees(AtendeeId),
+	WorkshopId INT NOT NULL REFERENCES Workshops(WorkshopId),
+	ApplicationStatus applicationStatus NOT NULL,
+	TimeOfApplication TIMESTAMP NOT NULL,
+	UNIQUE (AtendeeId, WorkshopId)
+);
+
+CREATE TABLE StaffJobs (
+	StaffJobId SERIAL PRIMARY KEY,
+	StaffJobDescription VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Staff (
+	StaffId SERIAL PRIMARY KEY,
+	StaffJobId INT NOT NULL REFERENCES StaffJobs(StaffJobId),
+	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId),
+	Name VARCHAR(100) NOT NULL,
+	Surname VARCHAR(100) NOT NULL,
+	DateOfBirth TIMESTAMP NOT NULL,
+	ContactPhone VARCHAR(100) NOT NULL,
+	IsCertified BOOLEAN DEFAULT FALSE
+);
+
+ALTER TABLE Staff
+	ADD CONSTRAINT StaffUnderage
+	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) < 21)
