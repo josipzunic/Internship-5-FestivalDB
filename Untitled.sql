@@ -241,6 +241,11 @@ CREATE TABLE WorkshopApplications (
 	UNIQUE (AtendeeId, WorkshopId)
 );
 
+
+
+ALTER TABLE WorkshopApplications
+	ADD COLUMN WorkshopApplicationId SERIAL PRIMARY KEY
+
 CREATE TABLE StaffJobs (
 	StaffJobId SERIAL PRIMARY KEY,
 	StaffJobDescription VARCHAR(50) NOT NULL
