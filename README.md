@@ -1,6 +1,6 @@
 Basic database for tracking festivals. <br />
 Folder csv contains csv files with data for the database. <br />
-Data is imported in pgAdmin 4 by right clicking on the table we want to add data to and choosing the "Import/Export data" option from the dropdown menu <\br>
+Data is imported in pgAdmin 4 by right clicking on the table we want to add data to and choosing the "Import/Export data" option from the dropdown menu <br />
 Data should be imported in a specific order: <br />
 1. Festivals <br />
 2. WorkshopDescriptions <br />
