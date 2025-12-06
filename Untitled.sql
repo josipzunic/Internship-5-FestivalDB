@@ -15,6 +15,9 @@ CREATE TABLE Festivals (
 	CHECK(DateOfStart < DateOfEnd)
 );
 
+ALTER TABLE Festivals
+	ADD COLUMN DateOfEnd TIMESTAMP NOT NULL
+
 SELECT conname, pg_get_constraintdef(oid)
 FROM pg_constraint
 WHERE conrelid = 'festivals'::regclass;
@@ -79,66 +82,64 @@ DROP CONSTRAINT "startvsendtime";
 ALTER TABLE Performances
 	ADD CONSTRAINT StartVsEndTime
 	CHECK(StartTime < EndTime)
-
-CREATE OR REPLACE FUNCTION checkFrontRowOccupation()
-RETURNS TRIGGER AS $$
-DECLARE 
-	maxInFirstRow INT;
-BEGIN
-	SELECT MaxPeopleFirstRows
-	INTO maxInFirstRow
-	FROM Stage
-	WHERE StageId = NEW.StageId;
-	IF NEW.ExpectedAttendance < 0 OR NEW.ExpectedAttendance > maxInFirstRow THEN
-		return NULL;
-	END IF;
-	RETURN NEW;
-END;
-$$ LANGUAGE plpgsql;
-CREATE TRIGGER preventFrontRowOverfilling
-BEFORE INSERT OR UPDATE ON PERFORMANCES
-FOR EACH ROW
-EXECUTE FUNCTION checkFrontRowOccupation()
 	
 	
 
 CREATE OR REPLACE FUNCTION checkStagePerformanceOverlap()
 RETURNS TRIGGER AS $$
 BEGIN
-	IF EXISTS (
-		SELECT 1
-		FROM Performances
-		WHERE StageId = NEW.StageId
-			AND (
-				NEW.StartTime >= StartTime AND NEW.StartTime < EndTime OR
-				NEW.EndTime > StartTime AND NEW.EndTime <= EndTime OR
-				NEW.StartTime <= StartTime AND NEW.EndTime >= EndTime
-			)
-		) THEN
-			RAISE EXCEPTION 'Preklapanje nastupa na istoj pozornici';
-		END IF;
-		RETURN NEW;
+
+    IF NOT EXISTS (
+        SELECT 1
+        FROM Festivals f
+        JOIN Stage s ON s.FestivalId = f.FestivalId
+        WHERE s.StageId = NEW.StageId
+            AND NEW.StartTime >= f.DateOfStart::timestamp
+            AND NEW.EndTime <= (f.DateOfEnd::timestamp + INTERVAL '1 day') 
+    ) THEN
+        RAISE EXCEPTION 'Performance times (% to %) are outside the festival dates for Stage %', 
+            NEW.StartTime, NEW.EndTime, NEW.StageId;
+    END IF;
+    
+
+    IF EXISTS (
+        SELECT 1
+        FROM Performances
+        WHERE StageId = NEW.StageId
+            AND PerformanceId != COALESCE(NEW.PerformanceId, -1) 
+            AND (
+                (NEW.StartTime >= StartTime AND NEW.StartTime < EndTime) OR
+                (NEW.EndTime > StartTime AND NEW.EndTime <= EndTime) OR
+                (NEW.StartTime <= StartTime AND NEW.EndTime >= EndTime)
+            )
+    ) THEN
+        RAISE EXCEPTION 'Performance on Stage % from % to % overlaps with an existing performance', 
+            NEW.StageId, NEW.StartTime, NEW.EndTime;
+    END IF;
+    
+
+    RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;
+
 
 CREATE TRIGGER prevenetPerformaceOverlap
 BEFORE INSERT OR UPDATE ON PERFORMANCES
 FOR EACH ROW
 EXECUTE FUNCTION checkStagePerformanceOverlap()
 
+
 CREATE TYPE ticketType AS ENUM ('dayPass', 'festivalPass', 'campPass', 'vipPass');
 
-CREATE TABLE TicketDescriptions (
-	TicketDescriptionId SERIAL PRIMARY KEY,
-	Description VARCHAR(100) NOT NULL
-);
 
 CREATE TABLE Tickets (
 	TicketId SERIAL PRIMARY KEY,
-	TicketType ticketType NOT NULL,
-	TicketDescriptionId INT NOT NULL REFERENCES TicketDescriptions(TicketDescriptionId),
+	TicketType ticketType NOT NULL,""
 	FestivalId INT NOT NULL REFERENCES Festivals(FestivalId)
 );
+
+ALTER TABLE Tickets
+	ADD COLUMN TicketDescription VARCHAR(100) NOT NULL
 
 CREATE TABLE TicketValidities (
 	TicketId INT NOT NULL REFERENCES Tickets(TicketId),
@@ -211,9 +212,6 @@ ALTER TABLE Workshops
 	ADD CONSTRAINT WorkshopCapacity
 	CHECK (Capacity > 0)
 
-ALTER TABLE Workshops
-	ADD CONSTRAINT WorkshopDuration
-	CHECK (Duration > INTERVAL '0')
 
 CREATE TABLE Instructors (
 	InstructorId SERIAL PRIMARY KEY,
@@ -259,6 +257,7 @@ CREATE TABLE Staff (
 	IsCertified BOOLEAN DEFAULT FALSE
 );
 
+
 ALTER TABLE Staff
 	ADD CONSTRAINT StaffUnderage
 	CHECK(EXTRACT(YEAR FROM AGE(CURRENT_DATE, DateOfBirth)) >= 21)
@@ -295,5 +294,9 @@ CREATE TRIGGER membership_card_check
 BEFORE INSERT ON MembershipCardHolders
 FOR EACH ROW
 EXECUTE FUNCTION checkMembershipCardCondition();
+
+TRUNCATE TABLE 
+    performances
+RESTART IDENTITY CASCADE;
 		
 
