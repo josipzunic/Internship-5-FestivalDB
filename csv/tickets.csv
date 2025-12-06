@@ -1,0 +1,1001 @@
+TicketId,TicketType,FestivalId,Price,TicketDescription
+1,vipPass,956,998.75,festival pass + camp pass + backstage pass
+2,campPass,61,282.04,festival pass + camp pass
+3,festivalPass,979,829.39,entire festival pass
+4,campPass,81,373.17,festival pass + camp pass
+5,campPass,101,953.58,festival pass + camp pass
+6,campPass,168,858.07,festival pass + camp pass
+7,vipPass,525,915.55,festival pass + camp pass + backstage pass
+8,dayPass,926,539.94,one day pass
+9,dayPass,216,232.44,one day pass
+10,vipPass,771,488.68,festival pass + camp pass + backstage pass
+11,festivalPass,174,327.94,entire festival pass
+12,dayPass,705,262.31,one day pass
+13,campPass,553,651.01,festival pass + camp pass
+14,vipPass,555,368.52,festival pass + camp pass + backstage pass
+15,dayPass,569,466.86,one day pass
+16,festivalPass,456,540.27,entire festival pass
+17,dayPass,321,232.82,one day pass
+18,campPass,309,434.36,festival pass + camp pass
+19,dayPass,475,745.45,one day pass
+20,campPass,996,177.04,festival pass + camp pass
+21,dayPass,498,304.3,one day pass
+22,campPass,436,46.77,festival pass + camp pass
+23,dayPass,714,862.98,one day pass
+24,campPass,68,309.81,festival pass + camp pass
+25,dayPass,131,323.7,one day pass
+26,festivalPass,940,790.53,entire festival pass
+27,campPass,716,90.13,festival pass + camp pass
+28,campPass,366,178.58,festival pass + camp pass
+29,dayPass,866,769.43,one day pass
+30,dayPass,653,242.88,one day pass
+31,dayPass,697,739.78,one day pass
+32,campPass,572,992.33,festival pass + camp pass
+33,festivalPass,372,52.6,entire festival pass
+34,festivalPass,215,391.02,entire festival pass
+35,campPass,161,601.91,festival pass + camp pass
+36,festivalPass,37,176.94,entire festival pass
+37,campPass,929,303.09,festival pass + camp pass
+38,festivalPass,340,2.72,entire festival pass
+39,campPass,617,837.58,festival pass + camp pass
+40,vipPass,15,950.52,festival pass + camp pass + backstage pass
+41,festivalPass,885,581.26,entire festival pass
+42,vipPass,77,803.06,festival pass + camp pass + backstage pass
+43,festivalPass,495,379.58,entire festival pass
+44,campPass,960,955.08,festival pass + camp pass
+45,festivalPass,639,18.31,entire festival pass
+46,festivalPass,435,382.87,entire festival pass
+47,dayPass,172,503.32,one day pass
+48,dayPass,978,229.24,one day pass
+49,vipPass,191,41.63,festival pass + camp pass + backstage pass
+50,campPass,979,755.25,festival pass + camp pass
+51,campPass,263,300.59,festival pass + camp pass
+52,vipPass,944,706.68,festival pass + camp pass + backstage pass
+53,campPass,480,709.93,festival pass + camp pass
+54,vipPass,362,811.52,festival pass + camp pass + backstage pass
+55,vipPass,787,840.45,festival pass + camp pass + backstage pass
+56,festivalPass,361,788.96,entire festival pass
+57,campPass,239,569.24,festival pass + camp pass
+58,dayPass,914,180.0,one day pass
+59,dayPass,872,490.94,one day pass
+60,campPass,900,518.12,festival pass + camp pass
+61,festivalPass,597,505.48,entire festival pass
+62,campPass,756,266.98,festival pass + camp pass
+63,campPass,703,872.35,festival pass + camp pass
+64,dayPass,520,391.25,one day pass
+65,dayPass,26,817.55,one day pass
+66,vipPass,576,671.1,festival pass + camp pass + backstage pass
+67,festivalPass,66,258.25,entire festival pass
+68,dayPass,16,366.53,one day pass
+69,vipPass,65,333.66,festival pass + camp pass + backstage pass
+70,campPass,113,116.89,festival pass + camp pass
+71,campPass,530,53.92,festival pass + camp pass
+72,campPass,159,921.16,festival pass + camp pass
+73,festivalPass,82,76.19,entire festival pass
+74,vipPass,897,384.47,festival pass + camp pass + backstage pass
+75,campPass,456,890.51,festival pass + camp pass
+76,campPass,636,45.7,festival pass + camp pass
+77,campPass,3,283.99,festival pass + camp pass
+78,vipPass,260,882.08,festival pass + camp pass + backstage pass
+79,dayPass,167,866.11,one day pass
+80,festivalPass,539,153.78,entire festival pass
+81,vipPass,602,32.05,festival pass + camp pass + backstage pass
+82,campPass,932,138.97,festival pass + camp pass
+83,campPass,382,256.96,festival pass + camp pass
+84,festivalPass,784,81.65,entire festival pass
+85,festivalPass,197,325.44,entire festival pass
+86,dayPass,70,242.96,one day pass
+87,dayPass,724,134.47,one day pass
+88,festivalPass,895,968.48,entire festival pass
+89,campPass,565,694.2,festival pass + camp pass
+90,vipPass,880,769.63,festival pass + camp pass + backstage pass
+91,vipPass,542,943.95,festival pass + camp pass + backstage pass
+92,vipPass,304,990.76,festival pass + camp pass + backstage pass
+93,dayPass,667,459.3,one day pass
+94,dayPass,875,105.3,one day pass
+95,vipPass,189,887.65,festival pass + camp pass + backstage pass
+96,festivalPass,885,688.28,entire festival pass
+97,vipPass,543,817.04,festival pass + camp pass + backstage pass
+98,campPass,56,696.71,festival pass + camp pass
+99,campPass,103,107.21,festival pass + camp pass
+100,vipPass,940,242.04,festival pass + camp pass + backstage pass
+101,campPass,883,702.92,festival pass + camp pass
+102,campPass,447,335.57,festival pass + camp pass
+103,dayPass,685,93.09,one day pass
+104,vipPass,618,501.74,festival pass + camp pass + backstage pass
+105,festivalPass,637,460.91,entire festival pass
+106,festivalPass,858,53.7,entire festival pass
+107,campPass,443,552.72,festival pass + camp pass
+108,dayPass,218,812.88,one day pass
+109,dayPass,124,133.56,one day pass
+110,festivalPass,424,293.84,entire festival pass
+111,vipPass,290,935.12,festival pass + camp pass + backstage pass
+112,vipPass,260,841.48,festival pass + camp pass + backstage pass
+113,dayPass,401,973.21,one day pass
+114,festivalPass,583,709.43,entire festival pass
+115,dayPass,294,140.68,one day pass
+116,festivalPass,21,418.09,entire festival pass
+117,campPass,119,298.53,festival pass + camp pass
+118,festivalPass,303,811.92,entire festival pass
+119,dayPass,39,889.14,one day pass
+120,festivalPass,935,970.63,entire festival pass
+121,dayPass,585,998.61,one day pass
+122,vipPass,248,772.97,festival pass + camp pass + backstage pass
+123,festivalPass,747,471.28,entire festival pass
+124,dayPass,534,577.94,one day pass
+125,festivalPass,551,996.6,entire festival pass
+126,campPass,694,207.79,festival pass + camp pass
+127,campPass,940,508.46,festival pass + camp pass
+128,campPass,816,198.08,festival pass + camp pass
+129,vipPass,740,612.22,festival pass + camp pass + backstage pass
+130,campPass,507,962.67,festival pass + camp pass
+131,festivalPass,239,338.04,entire festival pass
+132,campPass,45,968.99,festival pass + camp pass
+133,festivalPass,389,982.58,entire festival pass
+134,vipPass,881,906.53,festival pass + camp pass + backstage pass
+135,vipPass,418,353.88,festival pass + camp pass + backstage pass
+136,festivalPass,482,718.05,entire festival pass
+137,campPass,765,427.27,festival pass + camp pass
+138,vipPass,764,77.6,festival pass + camp pass + backstage pass
+139,campPass,957,596.61,festival pass + camp pass
+140,campPass,962,283.65,festival pass + camp pass
+141,dayPass,662,388.34,one day pass
+142,campPass,569,258.49,festival pass + camp pass
+143,vipPass,591,513.69,festival pass + camp pass + backstage pass
+144,vipPass,99,842.4,festival pass + camp pass + backstage pass
+145,dayPass,253,206.98,one day pass
+146,festivalPass,715,656.37,entire festival pass
+147,festivalPass,90,96.3,entire festival pass
+148,festivalPass,714,361.9,entire festival pass
+149,campPass,568,88.59,festival pass + camp pass
+150,campPass,384,208.54,festival pass + camp pass
+151,dayPass,64,567.94,one day pass
+152,vipPass,329,416.18,festival pass + camp pass + backstage pass
+153,campPass,111,842.61,festival pass + camp pass
+154,campPass,367,935.34,festival pass + camp pass
+155,vipPass,22,941.92,festival pass + camp pass + backstage pass
+156,festivalPass,232,79.03,entire festival pass
+157,dayPass,183,189.93,one day pass
+158,festivalPass,838,785.1,entire festival pass
+159,dayPass,2,268.94,one day pass
+160,festivalPass,267,255.44,entire festival pass
+161,festivalPass,151,556.98,entire festival pass
+162,campPass,943,194.16,festival pass + camp pass
+163,festivalPass,999,505.51,entire festival pass
+164,campPass,314,483.88,festival pass + camp pass
+165,festivalPass,280,266.39,entire festival pass
+166,vipPass,13,353.88,festival pass + camp pass + backstage pass
+167,vipPass,929,465.6,festival pass + camp pass + backstage pass
+168,vipPass,374,427.33,festival pass + camp pass + backstage pass
+169,dayPass,84,798.42,one day pass
+170,campPass,593,653.65,festival pass + camp pass
+171,dayPass,205,947.2,one day pass
+172,campPass,193,583.48,festival pass + camp pass
+173,vipPass,321,314.21,festival pass + camp pass + backstage pass
+174,dayPass,750,619.49,one day pass
+175,dayPass,367,333.5,one day pass
+176,festivalPass,733,211.47,entire festival pass
+177,campPass,92,503.32,festival pass + camp pass
+178,festivalPass,85,701.36,entire festival pass
+179,vipPass,948,823.26,festival pass + camp pass + backstage pass
+180,vipPass,33,793.83,festival pass + camp pass + backstage pass
+181,festivalPass,263,62.46,entire festival pass
+182,festivalPass,51,673.77,entire festival pass
+183,campPass,653,537.81,festival pass + camp pass
+184,festivalPass,966,751.68,entire festival pass
+185,campPass,89,617.7,festival pass + camp pass
+186,campPass,916,209.38,festival pass + camp pass
+187,dayPass,933,796.62,one day pass
+188,dayPass,471,477.24,one day pass
+189,dayPass,110,439.73,one day pass
+190,campPass,815,287.14,festival pass + camp pass
+191,festivalPass,974,427.4,entire festival pass
+192,campPass,645,546.79,festival pass + camp pass
+193,dayPass,984,930.34,one day pass
+194,vipPass,126,672.13,festival pass + camp pass + backstage pass
+195,dayPass,211,973.83,one day pass
+196,dayPass,676,351.71,one day pass
+197,dayPass,588,303.58,one day pass
+198,dayPass,62,653.54,one day pass
+199,festivalPass,735,345.28,entire festival pass
+200,vipPass,251,22.59,festival pass + camp pass + backstage pass
+201,campPass,864,258.08,festival pass + camp pass
+202,festivalPass,351,123.32,entire festival pass
+203,dayPass,555,324.51,one day pass
+204,dayPass,255,628.43,one day pass
+205,dayPass,709,3.52,one day pass
+206,vipPass,733,626.61,festival pass + camp pass + backstage pass
+207,vipPass,38,119.86,festival pass + camp pass + backstage pass
+208,campPass,180,226.23,festival pass + camp pass
+209,campPass,226,318.25,festival pass + camp pass
+210,campPass,463,15.21,festival pass + camp pass
+211,campPass,432,411.07,festival pass + camp pass
+212,campPass,704,266.74,festival pass + camp pass
+213,dayPass,542,388.88,one day pass
+214,festivalPass,167,856.42,entire festival pass
+215,campPass,319,904.96,festival pass + camp pass
+216,festivalPass,512,337.61,entire festival pass
+217,dayPass,538,984.23,one day pass
+218,dayPass,402,595.5,one day pass
+219,campPass,623,775.19,festival pass + camp pass
+220,campPass,686,322.42,festival pass + camp pass
+221,vipPass,652,562.34,festival pass + camp pass + backstage pass
+222,vipPass,163,83.46,festival pass + camp pass + backstage pass
+223,vipPass,143,568.26,festival pass + camp pass + backstage pass
+224,campPass,949,559.54,festival pass + camp pass
+225,campPass,494,566.67,festival pass + camp pass
+226,campPass,363,578.76,festival pass + camp pass
+227,dayPass,628,25.2,one day pass
+228,dayPass,250,498.12,one day pass
+229,vipPass,96,295.42,festival pass + camp pass + backstage pass
+230,dayPass,42,399.02,one day pass
+231,vipPass,812,175.52,festival pass + camp pass + backstage pass
+232,festivalPass,15,942.59,entire festival pass
+233,campPass,945,394.56,festival pass + camp pass
+234,festivalPass,446,697.36,entire festival pass
+235,vipPass,508,6.8,festival pass + camp pass + backstage pass
+236,festivalPass,91,267.93,entire festival pass
+237,vipPass,428,690.82,festival pass + camp pass + backstage pass
+238,festivalPass,733,10.34,entire festival pass
+239,campPass,434,894.42,festival pass + camp pass
+240,campPass,417,785.7,festival pass + camp pass
+241,vipPass,947,575.75,festival pass + camp pass + backstage pass
+242,vipPass,907,525.52,festival pass + camp pass + backstage pass
+243,vipPass,193,703.43,festival pass + camp pass + backstage pass
+244,dayPass,70,977.55,one day pass
+245,campPass,721,412.52,festival pass + camp pass
+246,vipPass,772,651.0,festival pass + camp pass + backstage pass
+247,campPass,336,212.73,festival pass + camp pass
+248,campPass,576,858.76,festival pass + camp pass
+249,dayPass,991,175.96,one day pass
+250,dayPass,652,434.56,one day pass
+251,vipPass,30,488.78,festival pass + camp pass + backstage pass
+252,festivalPass,549,713.6,entire festival pass
+253,festivalPass,241,205.18,entire festival pass
+254,campPass,26,936.52,festival pass + camp pass
+255,dayPass,552,831.02,one day pass
+256,dayPass,867,14.98,one day pass
+257,festivalPass,632,759.65,entire festival pass
+258,campPass,183,159.3,festival pass + camp pass
+259,dayPass,78,378.79,one day pass
+260,dayPass,514,992.74,one day pass
+261,campPass,7,102.47,festival pass + camp pass
+262,vipPass,59,377.03,festival pass + camp pass + backstage pass
+263,dayPass,647,34.21,one day pass
+264,festivalPass,680,317.9,entire festival pass
+265,festivalPass,335,155.75,entire festival pass
+266,vipPass,446,518.59,festival pass + camp pass + backstage pass
+267,campPass,589,430.2,festival pass + camp pass
+268,vipPass,179,742.28,festival pass + camp pass + backstage pass
+269,campPass,676,361.75,festival pass + camp pass
+270,festivalPass,97,655.53,entire festival pass
+271,campPass,319,870.79,festival pass + camp pass
+272,vipPass,890,979.27,festival pass + camp pass + backstage pass
+273,campPass,317,788.41,festival pass + camp pass
+274,festivalPass,469,419.62,entire festival pass
+275,festivalPass,223,547.26,entire festival pass
+276,vipPass,742,71.61,festival pass + camp pass + backstage pass
+277,campPass,728,532.06,festival pass + camp pass
+278,vipPass,472,376.95,festival pass + camp pass + backstage pass
+279,dayPass,254,985.51,one day pass
+280,dayPass,998,612.83,one day pass
+281,festivalPass,513,172.5,entire festival pass
+282,campPass,415,250.83,festival pass + camp pass
+283,campPass,113,553.89,festival pass + camp pass
+284,campPass,347,324.36,festival pass + camp pass
+285,festivalPass,129,58.38,entire festival pass
+286,festivalPass,80,572.51,entire festival pass
+287,dayPass,300,30.29,one day pass
+288,dayPass,721,531.62,one day pass
+289,dayPass,680,915.31,one day pass
+290,vipPass,326,656.96,festival pass + camp pass + backstage pass
+291,festivalPass,347,556.6,entire festival pass
+292,dayPass,334,912.77,one day pass
+293,dayPass,855,812.9,one day pass
+294,campPass,840,565.62,festival pass + camp pass
+295,vipPass,642,873.55,festival pass + camp pass + backstage pass
+296,campPass,79,996.2,festival pass + camp pass
+297,dayPass,724,2.64,one day pass
+298,festivalPass,478,775.15,entire festival pass
+299,vipPass,955,514.9,festival pass + camp pass + backstage pass
+300,dayPass,745,92.13,one day pass
+301,dayPass,134,626.7,one day pass
+302,campPass,782,362.6,festival pass + camp pass
+303,dayPass,477,665.96,one day pass
+304,dayPass,572,213.21,one day pass
+305,dayPass,40,717.84,one day pass
+306,dayPass,411,858.64,one day pass
+307,campPass,153,472.47,festival pass + camp pass
+308,dayPass,954,534.26,one day pass
+309,campPass,520,453.44,festival pass + camp pass
+310,festivalPass,49,601.45,entire festival pass
+311,vipPass,194,567.86,festival pass + camp pass + backstage pass
+312,vipPass,151,896.0,festival pass + camp pass + backstage pass
+313,campPass,36,668.13,festival pass + camp pass
+314,festivalPass,936,537.16,entire festival pass
+315,festivalPass,661,239.38,entire festival pass
+316,vipPass,135,454.44,festival pass + camp pass + backstage pass
+317,vipPass,714,19.87,festival pass + camp pass + backstage pass
+318,dayPass,778,142.35,one day pass
+319,vipPass,680,741.04,festival pass + camp pass + backstage pass
+320,campPass,767,202.85,festival pass + camp pass
+321,vipPass,99,315.97,festival pass + camp pass + backstage pass
+322,vipPass,895,151.12,festival pass + camp pass + backstage pass
+323,festivalPass,937,30.07,entire festival pass
+324,dayPass,371,610.68,one day pass
+325,dayPass,109,738.48,one day pass
+326,campPass,127,177.23,festival pass + camp pass
+327,festivalPass,486,172.73,entire festival pass
+328,campPass,933,561.52,festival pass + camp pass
+329,campPass,145,628.5,festival pass + camp pass
+330,campPass,727,123.2,festival pass + camp pass
+331,campPass,529,624.62,festival pass + camp pass
+332,vipPass,945,756.46,festival pass + camp pass + backstage pass
+333,campPass,122,228.36,festival pass + camp pass
+334,festivalPass,192,839.58,entire festival pass
+335,vipPass,188,370.5,festival pass + camp pass + backstage pass
+336,campPass,283,204.09,festival pass + camp pass
+337,campPass,766,368.12,festival pass + camp pass
+338,vipPass,160,128.57,festival pass + camp pass + backstage pass
+339,vipPass,996,679.12,festival pass + camp pass + backstage pass
+340,festivalPass,410,979.68,entire festival pass
+341,dayPass,389,913.09,one day pass
+342,vipPass,301,166.37,festival pass + camp pass + backstage pass
+343,festivalPass,519,381.78,entire festival pass
+344,festivalPass,494,94.48,entire festival pass
+345,vipPass,427,970.61,festival pass + camp pass + backstage pass
+346,vipPass,545,266.59,festival pass + camp pass + backstage pass
+347,vipPass,993,222.14,festival pass + camp pass + backstage pass
+348,dayPass,54,733.74,one day pass
+349,dayPass,263,614.12,one day pass
+350,dayPass,486,554.21,one day pass
+351,campPass,521,944.44,festival pass + camp pass
+352,dayPass,66,778.99,one day pass
+353,festivalPass,295,27.6,entire festival pass
+354,campPass,119,375.14,festival pass + camp pass
+355,vipPass,448,250.57,festival pass + camp pass + backstage pass
+356,campPass,99,906.56,festival pass + camp pass
+357,vipPass,483,915.08,festival pass + camp pass + backstage pass
+358,dayPass,947,908.39,one day pass
+359,campPass,816,400.82,festival pass + camp pass
+360,vipPass,60,236.02,festival pass + camp pass + backstage pass
+361,campPass,742,483.43,festival pass + camp pass
+362,dayPass,578,30.97,one day pass
+363,festivalPass,447,76.13,entire festival pass
+364,vipPass,531,293.88,festival pass + camp pass + backstage pass
+365,campPass,154,135.83,festival pass + camp pass
+366,vipPass,238,571.07,festival pass + camp pass + backstage pass
+367,campPass,682,861.7,festival pass + camp pass
+368,campPass,512,889.74,festival pass + camp pass
+369,festivalPass,322,718.08,entire festival pass
+370,dayPass,695,273.35,one day pass
+371,campPass,570,114.17,festival pass + camp pass
+372,campPass,964,638.11,festival pass + camp pass
+373,campPass,110,491.43,festival pass + camp pass
+374,campPass,707,438.16,festival pass + camp pass
+375,campPass,99,826.34,festival pass + camp pass
+376,dayPass,771,762.0,one day pass
+377,campPass,75,867.57,festival pass + camp pass
+378,dayPass,298,272.68,one day pass
+379,dayPass,268,815.33,one day pass
+380,campPass,749,342.75,festival pass + camp pass
+381,dayPass,214,586.9,one day pass
+382,dayPass,232,429.51,one day pass
+383,campPass,588,687.89,festival pass + camp pass
+384,dayPass,876,676.31,one day pass
+385,vipPass,128,487.14,festival pass + camp pass + backstage pass
+386,campPass,848,235.62,festival pass + camp pass
+387,festivalPass,562,291.19,entire festival pass
+388,dayPass,559,470.12,one day pass
+389,campPass,681,384.06,festival pass + camp pass
+390,dayPass,228,780.87,one day pass
+391,campPass,872,354.1,festival pass + camp pass
+392,campPass,201,650.6,festival pass + camp pass
+393,campPass,204,862.42,festival pass + camp pass
+394,dayPass,186,173.58,one day pass
+395,vipPass,718,584.69,festival pass + camp pass + backstage pass
+396,dayPass,170,123.93,one day pass
+397,dayPass,863,930.27,one day pass
+398,dayPass,4,382.45,one day pass
+399,dayPass,517,230.54,one day pass
+400,festivalPass,462,87.9,entire festival pass
+401,dayPass,708,887.91,one day pass
+402,dayPass,676,419.42,one day pass
+403,vipPass,42,607.38,festival pass + camp pass + backstage pass
+404,dayPass,716,881.31,one day pass
+405,festivalPass,788,927.15,entire festival pass
+406,campPass,824,238.57,festival pass + camp pass
+407,vipPass,235,435.75,festival pass + camp pass + backstage pass
+408,festivalPass,54,226.43,entire festival pass
+409,campPass,792,318.0,festival pass + camp pass
+410,vipPass,705,630.72,festival pass + camp pass + backstage pass
+411,vipPass,303,111.83,festival pass + camp pass + backstage pass
+412,campPass,240,46.53,festival pass + camp pass
+413,campPass,735,502.93,festival pass + camp pass
+414,vipPass,493,250.29,festival pass + camp pass + backstage pass
+415,festivalPass,286,570.88,entire festival pass
+416,festivalPass,366,643.2,entire festival pass
+417,festivalPass,968,242.79,entire festival pass
+418,campPass,375,486.03,festival pass + camp pass
+419,festivalPass,136,857.01,entire festival pass
+420,campPass,79,576.13,festival pass + camp pass
+421,dayPass,153,193.75,one day pass
+422,dayPass,705,417.28,one day pass
+423,campPass,150,939.46,festival pass + camp pass
+424,vipPass,768,26.84,festival pass + camp pass + backstage pass
+425,festivalPass,323,591.3,entire festival pass
+426,festivalPass,581,432.81,entire festival pass
+427,festivalPass,708,31.58,entire festival pass
+428,festivalPass,140,113.63,entire festival pass
+429,dayPass,983,860.36,one day pass
+430,festivalPass,401,969.64,entire festival pass
+431,dayPass,488,565.43,one day pass
+432,dayPass,81,316.87,one day pass
+433,vipPass,626,928.59,festival pass + camp pass + backstage pass
+434,festivalPass,155,237.75,entire festival pass
+435,festivalPass,346,324.14,entire festival pass
+436,campPass,479,248.67,festival pass + camp pass
+437,dayPass,60,856.06,one day pass
+438,campPass,84,873.2,festival pass + camp pass
+439,vipPass,472,12.67,festival pass + camp pass + backstage pass
+440,dayPass,400,691.34,one day pass
+441,festivalPass,663,151.04,entire festival pass
+442,vipPass,611,134.05,festival pass + camp pass + backstage pass
+443,vipPass,31,314.07,festival pass + camp pass + backstage pass
+444,vipPass,894,176.87,festival pass + camp pass + backstage pass
+445,vipPass,47,713.16,festival pass + camp pass + backstage pass
+446,campPass,993,647.82,festival pass + camp pass
+447,vipPass,111,673.74,festival pass + camp pass + backstage pass
+448,dayPass,218,348.06,one day pass
+449,campPass,513,743.8,festival pass + camp pass
+450,vipPass,125,348.1,festival pass + camp pass + backstage pass
+451,campPass,799,738.39,festival pass + camp pass
+452,vipPass,696,831.55,festival pass + camp pass + backstage pass
+453,festivalPass,618,54.83,entire festival pass
+454,dayPass,511,203.98,one day pass
+455,dayPass,674,136.29,one day pass
+456,festivalPass,742,133.82,entire festival pass
+457,festivalPass,393,423.51,entire festival pass
+458,dayPass,645,290.57,one day pass
+459,vipPass,139,592.37,festival pass + camp pass + backstage pass
+460,dayPass,291,859.37,one day pass
+461,festivalPass,427,373.21,entire festival pass
+462,campPass,93,78.93,festival pass + camp pass
+463,campPass,7,752.09,festival pass + camp pass
+464,dayPass,169,545.92,one day pass
+465,campPass,228,87.05,festival pass + camp pass
+466,festivalPass,76,839.35,entire festival pass
+467,festivalPass,260,539.94,entire festival pass
+468,campPass,176,51.98,festival pass + camp pass
+469,dayPass,973,847.04,one day pass
+470,dayPass,267,904.06,one day pass
+471,vipPass,597,881.14,festival pass + camp pass + backstage pass
+472,campPass,581,524.77,festival pass + camp pass
+473,festivalPass,222,827.43,entire festival pass
+474,vipPass,179,45.37,festival pass + camp pass + backstage pass
+475,festivalPass,385,152.03,entire festival pass
+476,campPass,372,881.68,festival pass + camp pass
+477,dayPass,472,359.69,one day pass
+478,festivalPass,650,839.46,entire festival pass
+479,festivalPass,202,393.35,entire festival pass
+480,campPass,679,860.9,festival pass + camp pass
+481,festivalPass,624,922.51,entire festival pass
+482,dayPass,557,847.01,one day pass
+483,festivalPass,288,957.32,entire festival pass
+484,vipPass,174,951.52,festival pass + camp pass + backstage pass
+485,campPass,454,431.46,festival pass + camp pass
+486,festivalPass,95,18.25,entire festival pass
+487,festivalPass,306,278.43,entire festival pass
+488,festivalPass,462,775.09,entire festival pass
+489,vipPass,392,337.94,festival pass + camp pass + backstage pass
+490,vipPass,558,945.17,festival pass + camp pass + backstage pass
+491,festivalPass,80,572.63,entire festival pass
+492,dayPass,365,32.67,one day pass
+493,festivalPass,327,227.74,entire festival pass
+494,dayPass,759,636.89,one day pass
+495,vipPass,249,751.26,festival pass + camp pass + backstage pass
+496,dayPass,934,504.23,one day pass
+497,campPass,799,761.85,festival pass + camp pass
+498,festivalPass,412,751.81,entire festival pass
+499,dayPass,256,356.09,one day pass
+500,vipPass,759,255.34,festival pass + camp pass + backstage pass
+501,campPass,560,141.83,festival pass + camp pass
+502,dayPass,520,405.94,one day pass
+503,vipPass,479,474.69,festival pass + camp pass + backstage pass
+504,campPass,60,154.69,festival pass + camp pass
+505,campPass,326,657.23,festival pass + camp pass
+506,campPass,329,965.4,festival pass + camp pass
+507,dayPass,962,272.95,one day pass
+508,campPass,45,289.86,festival pass + camp pass
+509,campPass,753,239.01,festival pass + camp pass
+510,campPass,804,536.04,festival pass + camp pass
+511,campPass,691,661.73,festival pass + camp pass
+512,festivalPass,300,937.76,entire festival pass
+513,dayPass,645,710.76,one day pass
+514,campPass,988,904.93,festival pass + camp pass
+515,vipPass,159,112.77,festival pass + camp pass + backstage pass
+516,campPass,860,139.1,festival pass + camp pass
+517,vipPass,646,643.68,festival pass + camp pass + backstage pass
+518,vipPass,430,555.21,festival pass + camp pass + backstage pass
+519,vipPass,589,237.16,festival pass + camp pass + backstage pass
+520,festivalPass,301,233.81,entire festival pass
+521,vipPass,371,23.43,festival pass + camp pass + backstage pass
+522,dayPass,815,543.36,one day pass
+523,campPass,389,32.12,festival pass + camp pass
+524,dayPass,579,421.17,one day pass
+525,campPass,460,699.53,festival pass + camp pass
+526,campPass,514,708.64,festival pass + camp pass
+527,campPass,287,683.47,festival pass + camp pass
+528,campPass,252,448.18,festival pass + camp pass
+529,dayPass,899,526.34,one day pass
+530,campPass,875,515.01,festival pass + camp pass
+531,vipPass,973,386.42,festival pass + camp pass + backstage pass
+532,vipPass,69,18.41,festival pass + camp pass + backstage pass
+533,festivalPass,69,658.06,entire festival pass
+534,dayPass,973,377.8,one day pass
+535,dayPass,431,739.21,one day pass
+536,dayPass,534,795.28,one day pass
+537,vipPass,238,724.33,festival pass + camp pass + backstage pass
+538,vipPass,953,384.7,festival pass + camp pass + backstage pass
+539,vipPass,628,668.54,festival pass + camp pass + backstage pass
+540,festivalPass,737,240.33,entire festival pass
+541,vipPass,220,355.25,festival pass + camp pass + backstage pass
+542,campPass,714,950.73,festival pass + camp pass
+543,vipPass,227,587.78,festival pass + camp pass + backstage pass
+544,dayPass,502,340.43,one day pass
+545,festivalPass,875,445.84,entire festival pass
+546,festivalPass,758,85.02,entire festival pass
+547,dayPass,681,518.29,one day pass
+548,festivalPass,8,816.68,entire festival pass
+549,campPass,89,288.52,festival pass + camp pass
+550,festivalPass,661,822.49,entire festival pass
+551,festivalPass,427,616.24,entire festival pass
+552,campPass,204,376.89,festival pass + camp pass
+553,vipPass,479,530.06,festival pass + camp pass + backstage pass
+554,festivalPass,296,865.25,entire festival pass
+555,campPass,598,28.42,festival pass + camp pass
+556,campPass,232,939.25,festival pass + camp pass
+557,festivalPass,446,72.57,entire festival pass
+558,festivalPass,589,314.0,entire festival pass
+559,vipPass,701,334.58,festival pass + camp pass + backstage pass
+560,dayPass,313,888.53,one day pass
+561,campPass,380,802.23,festival pass + camp pass
+562,dayPass,867,272.58,one day pass
+563,festivalPass,717,346.42,entire festival pass
+564,dayPass,403,757.96,one day pass
+565,dayPass,365,212.58,one day pass
+566,dayPass,583,914.79,one day pass
+567,vipPass,428,443.77,festival pass + camp pass + backstage pass
+568,dayPass,790,294.53,one day pass
+569,vipPass,998,365.43,festival pass + camp pass + backstage pass
+570,campPass,675,444.46,festival pass + camp pass
+571,dayPass,167,779.92,one day pass
+572,campPass,459,449.77,festival pass + camp pass
+573,campPass,309,79.82,festival pass + camp pass
+574,dayPass,106,887.06,one day pass
+575,vipPass,214,445.59,festival pass + camp pass + backstage pass
+576,vipPass,394,400.29,festival pass + camp pass + backstage pass
+577,festivalPass,119,828.15,entire festival pass
+578,festivalPass,898,978.55,entire festival pass
+579,campPass,287,614.66,festival pass + camp pass
+580,vipPass,117,403.84,festival pass + camp pass + backstage pass
+581,festivalPass,57,910.18,entire festival pass
+582,dayPass,341,482.53,one day pass
+583,vipPass,881,646.38,festival pass + camp pass + backstage pass
+584,campPass,773,335.98,festival pass + camp pass
+585,dayPass,364,319.77,one day pass
+586,dayPass,49,351.14,one day pass
+587,festivalPass,640,882.66,entire festival pass
+588,dayPass,785,932.25,one day pass
+589,festivalPass,626,418.86,entire festival pass
+590,vipPass,807,206.78,festival pass + camp pass + backstage pass
+591,festivalPass,631,406.38,entire festival pass
+592,campPass,718,825.94,festival pass + camp pass
+593,dayPass,309,972.86,one day pass
+594,dayPass,81,419.79,one day pass
+595,festivalPass,350,728.23,entire festival pass
+596,dayPass,520,652.61,one day pass
+597,campPass,61,198.81,festival pass + camp pass
+598,campPass,427,529.23,festival pass + camp pass
+599,festivalPass,877,507.61,entire festival pass
+600,festivalPass,107,188.48,entire festival pass
+601,festivalPass,447,727.86,entire festival pass
+602,vipPass,261,412.45,festival pass + camp pass + backstage pass
+603,vipPass,441,332.53,festival pass + camp pass + backstage pass
+604,vipPass,933,501.04,festival pass + camp pass + backstage pass
+605,festivalPass,752,339.28,entire festival pass
+606,dayPass,449,230.11,one day pass
+607,campPass,768,379.2,festival pass + camp pass
+608,dayPass,347,100.37,one day pass
+609,dayPass,519,595.79,one day pass
+610,campPass,729,761.95,festival pass + camp pass
+611,vipPass,717,427.18,festival pass + camp pass + backstage pass
+612,festivalPass,561,318.73,entire festival pass
+613,dayPass,593,423.16,one day pass
+614,dayPass,731,152.95,one day pass
+615,dayPass,151,860.25,one day pass
+616,dayPass,160,399.48,one day pass
+617,campPass,827,752.83,festival pass + camp pass
+618,festivalPass,93,533.44,entire festival pass
+619,festivalPass,957,919.17,entire festival pass
+620,campPass,301,961.59,festival pass + camp pass
+621,festivalPass,57,184.15,entire festival pass
+622,campPass,997,301.69,festival pass + camp pass
+623,dayPass,508,465.85,one day pass
+624,campPass,833,523.31,festival pass + camp pass
+625,dayPass,93,28.19,one day pass
+626,vipPass,401,450.7,festival pass + camp pass + backstage pass
+627,festivalPass,691,387.59,entire festival pass
+628,vipPass,528,140.43,festival pass + camp pass + backstage pass
+629,dayPass,809,654.61,one day pass
+630,vipPass,317,977.73,festival pass + camp pass + backstage pass
+631,dayPass,694,894.59,one day pass
+632,vipPass,995,964.6,festival pass + camp pass + backstage pass
+633,vipPass,585,793.53,festival pass + camp pass + backstage pass
+634,festivalPass,794,591.06,entire festival pass
+635,festivalPass,571,340.95,entire festival pass
+636,vipPass,572,119.58,festival pass + camp pass + backstage pass
+637,vipPass,460,33.24,festival pass + camp pass + backstage pass
+638,dayPass,658,732.4,one day pass
+639,dayPass,107,378.22,one day pass
+640,festivalPass,85,214.55,entire festival pass
+641,vipPass,824,812.7,festival pass + camp pass + backstage pass
+642,festivalPass,467,406.84,entire festival pass
+643,vipPass,825,792.78,festival pass + camp pass + backstage pass
+644,dayPass,50,403.08,one day pass
+645,dayPass,461,959.04,one day pass
+646,dayPass,525,904.06,one day pass
+647,campPass,521,792.31,festival pass + camp pass
+648,festivalPass,776,812.25,entire festival pass
+649,festivalPass,586,965.16,entire festival pass
+650,campPass,169,965.29,festival pass + camp pass
+651,festivalPass,957,677.69,entire festival pass
+652,vipPass,192,214.46,festival pass + camp pass + backstage pass
+653,dayPass,687,538.05,one day pass
+654,festivalPass,194,505.5,entire festival pass
+655,campPass,478,994.03,festival pass + camp pass
+656,vipPass,618,930.7,festival pass + camp pass + backstage pass
+657,dayPass,978,816.61,one day pass
+658,campPass,996,264.73,festival pass + camp pass
+659,vipPass,67,265.54,festival pass + camp pass + backstage pass
+660,dayPass,427,106.39,one day pass
+661,vipPass,193,780.16,festival pass + camp pass + backstage pass
+662,campPass,849,842.58,festival pass + camp pass
+663,festivalPass,271,208.82,entire festival pass
+664,vipPass,41,795.9,festival pass + camp pass + backstage pass
+665,vipPass,402,383.81,festival pass + camp pass + backstage pass
+666,festivalPass,754,939.26,entire festival pass
+667,campPass,298,258.04,festival pass + camp pass
+668,dayPass,70,209.4,one day pass
+669,vipPass,96,375.23,festival pass + camp pass + backstage pass
+670,dayPass,310,369.18,one day pass
+671,vipPass,703,709.22,festival pass + camp pass + backstage pass
+672,vipPass,377,255.61,festival pass + camp pass + backstage pass
+673,vipPass,517,368.39,festival pass + camp pass + backstage pass
+674,dayPass,174,39.36,one day pass
+675,dayPass,658,657.31,one day pass
+676,campPass,925,791.0,festival pass + camp pass
+677,festivalPass,486,549.69,entire festival pass
+678,vipPass,423,9.51,festival pass + camp pass + backstage pass
+679,vipPass,895,764.7,festival pass + camp pass + backstage pass
+680,vipPass,524,56.39,festival pass + camp pass + backstage pass
+681,vipPass,424,257.71,festival pass + camp pass + backstage pass
+682,festivalPass,29,789.23,entire festival pass
+683,vipPass,860,167.09,festival pass + camp pass + backstage pass
+684,dayPass,653,177.57,one day pass
+685,dayPass,991,828.22,one day pass
+686,vipPass,271,847.53,festival pass + camp pass + backstage pass
+687,campPass,775,23.86,festival pass + camp pass
+688,festivalPass,260,519.03,entire festival pass
+689,dayPass,467,437.68,one day pass
+690,campPass,194,666.78,festival pass + camp pass
+691,festivalPass,258,538.56,entire festival pass
+692,campPass,654,639.17,festival pass + camp pass
+693,campPass,977,925.13,festival pass + camp pass
+694,vipPass,547,720.43,festival pass + camp pass + backstage pass
+695,festivalPass,127,578.46,entire festival pass
+696,festivalPass,758,551.09,entire festival pass
+697,vipPass,466,663.19,festival pass + camp pass + backstage pass
+698,vipPass,138,835.26,festival pass + camp pass + backstage pass
+699,vipPass,34,662.76,festival pass + camp pass + backstage pass
+700,vipPass,592,29.76,festival pass + camp pass + backstage pass
+701,festivalPass,214,431.89,entire festival pass
+702,dayPass,649,408.88,one day pass
+703,campPass,258,792.23,festival pass + camp pass
+704,festivalPass,310,416.79,entire festival pass
+705,campPass,620,338.92,festival pass + camp pass
+706,festivalPass,504,753.97,entire festival pass
+707,festivalPass,959,516.85,entire festival pass
+708,dayPass,877,28.21,one day pass
+709,campPass,370,976.89,festival pass + camp pass
+710,vipPass,901,223.07,festival pass + camp pass + backstage pass
+711,vipPass,72,556.51,festival pass + camp pass + backstage pass
+712,festivalPass,898,994.73,entire festival pass
+713,festivalPass,184,335.04,entire festival pass
+714,dayPass,789,248.08,one day pass
+715,campPass,535,938.1,festival pass + camp pass
+716,dayPass,77,856.25,one day pass
+717,campPass,189,627.3,festival pass + camp pass
+718,dayPass,290,807.76,one day pass
+719,festivalPass,622,999.36,entire festival pass
+720,campPass,887,992.7,festival pass + camp pass
+721,campPass,36,655.97,festival pass + camp pass
+722,festivalPass,323,993.07,entire festival pass
+723,campPass,321,784.1,festival pass + camp pass
+724,vipPass,694,721.8,festival pass + camp pass + backstage pass
+725,festivalPass,659,187.17,entire festival pass
+726,vipPass,482,926.93,festival pass + camp pass + backstage pass
+727,vipPass,66,315.77,festival pass + camp pass + backstage pass
+728,dayPass,575,574.2,one day pass
+729,festivalPass,214,611.75,entire festival pass
+730,festivalPass,160,486.69,entire festival pass
+731,vipPass,551,827.05,festival pass + camp pass + backstage pass
+732,vipPass,249,190.36,festival pass + camp pass + backstage pass
+733,festivalPass,599,430.46,entire festival pass
+734,campPass,574,353.97,festival pass + camp pass
+735,campPass,429,350.15,festival pass + camp pass
+736,festivalPass,58,546.44,entire festival pass
+737,campPass,588,766.62,festival pass + camp pass
+738,festivalPass,911,616.0,entire festival pass
+739,campPass,801,32.99,festival pass + camp pass
+740,vipPass,859,6.54,festival pass + camp pass + backstage pass
+741,dayPass,904,893.34,one day pass
+742,vipPass,849,669.84,festival pass + camp pass + backstage pass
+743,campPass,471,758.04,festival pass + camp pass
+744,campPass,823,650.96,festival pass + camp pass
+745,campPass,957,988.8,festival pass + camp pass
+746,vipPass,237,429.63,festival pass + camp pass + backstage pass
+747,vipPass,152,595.88,festival pass + camp pass + backstage pass
+748,dayPass,171,225.42,one day pass
+749,festivalPass,365,669.58,entire festival pass
+750,festivalPass,423,475.62,entire festival pass
+751,vipPass,25,554.55,festival pass + camp pass + backstage pass
+752,dayPass,640,111.97,one day pass
+753,vipPass,357,45.04,festival pass + camp pass + backstage pass
+754,festivalPass,570,240.38,entire festival pass
+755,dayPass,950,195.31,one day pass
+756,campPass,481,455.56,festival pass + camp pass
+757,festivalPass,330,673.84,entire festival pass
+758,dayPass,162,541.51,one day pass
+759,vipPass,519,54.67,festival pass + camp pass + backstage pass
+760,festivalPass,204,706.1,entire festival pass
+761,vipPass,461,231.42,festival pass + camp pass + backstage pass
+762,vipPass,180,328.47,festival pass + camp pass + backstage pass
+763,campPass,412,789.46,festival pass + camp pass
+764,festivalPass,545,902.9,entire festival pass
+765,campPass,589,186.86,festival pass + camp pass
+766,campPass,837,102.27,festival pass + camp pass
+767,dayPass,55,327.55,one day pass
+768,dayPass,557,938.57,one day pass
+769,festivalPass,666,305.42,entire festival pass
+770,campPass,363,983.8,festival pass + camp pass
+771,campPass,189,702.08,festival pass + camp pass
+772,festivalPass,373,254.87,entire festival pass
+773,dayPass,429,998.94,one day pass
+774,dayPass,494,489.37,one day pass
+775,campPass,804,842.78,festival pass + camp pass
+776,dayPass,326,132.88,one day pass
+777,campPass,365,155.55,festival pass + camp pass
+778,vipPass,74,716.19,festival pass + camp pass + backstage pass
+779,campPass,926,56.91,festival pass + camp pass
+780,dayPass,598,483.21,one day pass
+781,festivalPass,459,193.01,entire festival pass
+782,dayPass,884,450.65,one day pass
+783,dayPass,785,208.51,one day pass
+784,festivalPass,880,405.86,entire festival pass
+785,vipPass,298,621.28,festival pass + camp pass + backstage pass
+786,festivalPass,129,756.82,entire festival pass
+787,dayPass,482,524.91,one day pass
+788,festivalPass,579,451.23,entire festival pass
+789,vipPass,907,182.54,festival pass + camp pass + backstage pass
+790,festivalPass,509,707.97,entire festival pass
+791,festivalPass,443,241.48,entire festival pass
+792,festivalPass,411,554.76,entire festival pass
+793,festivalPass,283,16.99,entire festival pass
+794,dayPass,441,16.11,one day pass
+795,dayPass,565,304.11,one day pass
+796,dayPass,309,774.99,one day pass
+797,campPass,103,100.99,festival pass + camp pass
+798,festivalPass,407,460.88,entire festival pass
+799,vipPass,935,592.68,festival pass + camp pass + backstage pass
+800,festivalPass,952,339.53,entire festival pass
+801,campPass,986,575.4,festival pass + camp pass
+802,dayPass,448,57.7,one day pass
+803,festivalPass,720,318.01,entire festival pass
+804,vipPass,728,303.73,festival pass + camp pass + backstage pass
+805,dayPass,162,341.02,one day pass
+806,dayPass,157,28.47,one day pass
+807,vipPass,282,580.59,festival pass + camp pass + backstage pass
+808,festivalPass,832,289.29,entire festival pass
+809,festivalPass,337,754.31,entire festival pass
+810,vipPass,318,442.67,festival pass + camp pass + backstage pass
+811,vipPass,342,253.1,festival pass + camp pass + backstage pass
+812,campPass,575,168.53,festival pass + camp pass
+813,vipPass,406,931.6,festival pass + camp pass + backstage pass
+814,campPass,192,771.27,festival pass + camp pass
+815,dayPass,944,548.65,one day pass
+816,festivalPass,35,376.2,entire festival pass
+817,campPass,540,577.07,festival pass + camp pass
+818,campPass,247,850.39,festival pass + camp pass
+819,vipPass,717,998.95,festival pass + camp pass + backstage pass
+820,dayPass,293,599.97,one day pass
+821,dayPass,113,446.99,one day pass
+822,campPass,487,873.11,festival pass + camp pass
+823,campPass,247,707.47,festival pass + camp pass
+824,dayPass,977,301.98,one day pass
+825,vipPass,513,912.87,festival pass + camp pass + backstage pass
+826,vipPass,250,201.61,festival pass + camp pass + backstage pass
+827,campPass,932,852.0,festival pass + camp pass
+828,vipPass,14,863.8,festival pass + camp pass + backstage pass
+829,vipPass,136,717.85,festival pass + camp pass + backstage pass
+830,vipPass,286,839.31,festival pass + camp pass + backstage pass
+831,festivalPass,312,37.83,entire festival pass
+832,festivalPass,935,180.8,entire festival pass
+833,vipPass,492,838.68,festival pass + camp pass + backstage pass
+834,festivalPass,233,877.46,entire festival pass
+835,festivalPass,392,791.26,entire festival pass
+836,dayPass,530,171.59,one day pass
+837,dayPass,513,306.74,one day pass
+838,vipPass,310,854.86,festival pass + camp pass + backstage pass
+839,vipPass,372,421.87,festival pass + camp pass + backstage pass
+840,dayPass,301,944.61,one day pass
+841,dayPass,882,325.27,one day pass
+842,festivalPass,64,966.11,entire festival pass
+843,vipPass,811,229.01,festival pass + camp pass + backstage pass
+844,vipPass,731,340.3,festival pass + camp pass + backstage pass
+845,dayPass,209,133.7,one day pass
+846,campPass,765,457.88,festival pass + camp pass
+847,campPass,616,590.6,festival pass + camp pass
+848,dayPass,968,180.29,one day pass
+849,dayPass,327,800.46,one day pass
+850,dayPass,653,363.14,one day pass
+851,dayPass,700,218.06,one day pass
+852,dayPass,582,24.14,one day pass
+853,festivalPass,628,133.73,entire festival pass
+854,campPass,130,817.38,festival pass + camp pass
+855,vipPass,11,120.36,festival pass + camp pass + backstage pass
+856,vipPass,288,765.54,festival pass + camp pass + backstage pass
+857,campPass,100,807.46,festival pass + camp pass
+858,campPass,495,534.37,festival pass + camp pass
+859,festivalPass,21,548.0,entire festival pass
+860,campPass,2,505.34,festival pass + camp pass
+861,campPass,516,671.34,festival pass + camp pass
+862,campPass,243,675.47,festival pass + camp pass
+863,vipPass,721,550.95,festival pass + camp pass + backstage pass
+864,campPass,805,707.66,festival pass + camp pass
+865,dayPass,729,17.56,one day pass
+866,festivalPass,326,565.56,entire festival pass
+867,festivalPass,283,969.4,entire festival pass
+868,festivalPass,731,25.24,entire festival pass
+869,dayPass,676,459.12,one day pass
+870,dayPass,253,210.97,one day pass
+871,campPass,166,123.86,festival pass + camp pass
+872,dayPass,230,224.99,one day pass
+873,dayPass,282,378.33,one day pass
+874,festivalPass,548,484.6,entire festival pass
+875,vipPass,862,628.48,festival pass + camp pass + backstage pass
+876,vipPass,106,707.4,festival pass + camp pass + backstage pass
+877,dayPass,552,459.52,one day pass
+878,festivalPass,222,52.28,entire festival pass
+879,festivalPass,987,155.68,entire festival pass
+880,vipPass,389,14.5,festival pass + camp pass + backstage pass
+881,vipPass,999,665.03,festival pass + camp pass + backstage pass
+882,festivalPass,694,968.57,entire festival pass
+883,campPass,294,123.69,festival pass + camp pass
+884,dayPass,785,821.17,one day pass
+885,festivalPass,880,132.76,entire festival pass
+886,dayPass,744,123.45,one day pass
+887,vipPass,881,758.38,festival pass + camp pass + backstage pass
+888,campPass,905,661.66,festival pass + camp pass
+889,vipPass,871,198.06,festival pass + camp pass + backstage pass
+890,festivalPass,117,746.45,entire festival pass
+891,dayPass,346,303.55,one day pass
+892,dayPass,99,790.0,one day pass
+893,vipPass,342,650.01,festival pass + camp pass + backstage pass
+894,festivalPass,786,208.66,entire festival pass
+895,festivalPass,149,627.14,entire festival pass
+896,dayPass,613,190.96,one day pass
+897,campPass,262,983.78,festival pass + camp pass
+898,festivalPass,403,833.44,entire festival pass
+899,festivalPass,553,92.61,entire festival pass
+900,festivalPass,581,992.73,entire festival pass
+901,vipPass,365,802.76,festival pass + camp pass + backstage pass
+902,vipPass,762,433.67,festival pass + camp pass + backstage pass
+903,campPass,436,543.79,festival pass + camp pass
+904,campPass,368,634.78,festival pass + camp pass
+905,campPass,618,833.24,festival pass + camp pass
+906,dayPass,567,122.29,one day pass
+907,festivalPass,477,393.88,entire festival pass
+908,vipPass,15,719.44,festival pass + camp pass + backstage pass
+909,campPass,764,623.94,festival pass + camp pass
+910,festivalPass,696,325.15,entire festival pass
+911,campPass,908,558.47,festival pass + camp pass
+912,campPass,710,505.65,festival pass + camp pass
+913,campPass,426,166.81,festival pass + camp pass
+914,dayPass,414,320.37,one day pass
+915,dayPass,386,51.05,one day pass
+916,campPass,811,808.76,festival pass + camp pass
+917,festivalPass,566,830.43,entire festival pass
+918,campPass,261,21.1,festival pass + camp pass
+919,campPass,57,340.07,festival pass + camp pass
+920,dayPass,270,36.92,one day pass
+921,festivalPass,767,899.84,entire festival pass
+922,vipPass,424,496.19,festival pass + camp pass + backstage pass
+923,campPass,955,839.15,festival pass + camp pass
+924,dayPass,87,888.8,one day pass
+925,festivalPass,43,546.19,entire festival pass
+926,festivalPass,628,975.53,entire festival pass
+927,vipPass,768,390.4,festival pass + camp pass + backstage pass
+928,festivalPass,424,245.24,entire festival pass
+929,dayPass,711,895.67,one day pass
+930,campPass,894,804.54,festival pass + camp pass
+931,campPass,649,592.27,festival pass + camp pass
+932,dayPass,422,693.12,one day pass
+933,campPass,859,408.34,festival pass + camp pass
+934,festivalPass,805,450.28,entire festival pass
+935,dayPass,133,800.43,one day pass
+936,festivalPass,220,842.96,entire festival pass
+937,festivalPass,758,353.26,entire festival pass
+938,dayPass,542,446.33,one day pass
+939,vipPass,646,349.49,festival pass + camp pass + backstage pass
+940,festivalPass,59,457.49,entire festival pass
+941,festivalPass,88,817.64,entire festival pass
+942,campPass,366,769.08,festival pass + camp pass
+943,dayPass,838,322.34,one day pass
+944,campPass,965,38.15,festival pass + camp pass
+945,vipPass,597,254.18,festival pass + camp pass + backstage pass
+946,dayPass,668,112.83,one day pass
+947,campPass,859,754.98,festival pass + camp pass
+948,campPass,60,636.35,festival pass + camp pass
+949,vipPass,164,347.53,festival pass + camp pass + backstage pass
+950,dayPass,927,142.49,one day pass
+951,vipPass,137,320.34,festival pass + camp pass + backstage pass
+952,festivalPass,149,514.19,entire festival pass
+953,festivalPass,685,512.64,entire festival pass
+954,vipPass,934,687.96,festival pass + camp pass + backstage pass
+955,dayPass,359,996.97,one day pass
+956,dayPass,885,999.37,one day pass
+957,campPass,886,708.56,festival pass + camp pass
+958,dayPass,528,955.77,one day pass
+959,festivalPass,670,380.11,entire festival pass
+960,festivalPass,37,269.36,entire festival pass
+961,dayPass,743,546.98,one day pass
+962,vipPass,978,983.35,festival pass + camp pass + backstage pass
+963,dayPass,835,531.63,one day pass
+964,campPass,997,570.82,festival pass + camp pass
+965,vipPass,905,381.12,festival pass + camp pass + backstage pass
+966,campPass,408,197.83,festival pass + camp pass
+967,festivalPass,446,869.2,entire festival pass
+968,festivalPass,939,791.21,entire festival pass
+969,campPass,52,646.17,festival pass + camp pass
+970,dayPass,58,594.69,one day pass
+971,dayPass,578,683.4,one day pass
+972,vipPass,364,723.07,festival pass + camp pass + backstage pass
+973,dayPass,249,414.91,one day pass
+974,vipPass,739,249.97,festival pass + camp pass + backstage pass
+975,festivalPass,422,256.13,entire festival pass
+976,dayPass,124,491.78,one day pass
+977,festivalPass,982,481.65,entire festival pass
+978,dayPass,523,470.58,one day pass
+979,vipPass,909,15.1,festival pass + camp pass + backstage pass
+980,vipPass,463,59.21,festival pass + camp pass + backstage pass
+981,dayPass,631,830.04,one day pass
+982,festivalPass,34,339.5,entire festival pass
+983,vipPass,526,123.52,festival pass + camp pass + backstage pass
+984,campPass,228,951.02,festival pass + camp pass
+985,dayPass,885,622.81,one day pass
+986,dayPass,137,859.01,one day pass
+987,dayPass,915,326.67,one day pass
+988,dayPass,972,959.19,one day pass
+989,vipPass,735,736.77,festival pass + camp pass + backstage pass
+990,festivalPass,609,934.17,entire festival pass
+991,festivalPass,890,958.88,entire festival pass
+992,campPass,618,545.75,festival pass + camp pass
+993,vipPass,137,389.09,festival pass + camp pass + backstage pass
+994,campPass,595,146.62,festival pass + camp pass
+995,dayPass,418,678.13,one day pass
+996,festivalPass,768,379.74,entire festival pass
+997,campPass,509,371.58,festival pass + camp pass
+998,campPass,137,378.52,festival pass + camp pass
+999,campPass,9,941.88,festival pass + camp pass
+1000,campPass,182,853.03,festival pass + camp pass

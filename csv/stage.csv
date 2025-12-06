@@ -1,0 +1,1001 @@
+StageId,Name,Location,MaxPeopleFirstRows,Covered,FestivalId
+1,Common duiker,forest,1910,false,778
+2,Bleeding heart monkey,main,1498,false,133
+3,Waved albatross,forest,3742,false,654
+4,"Crane, sarus",forest,97,false,108
+5,"Gazelle, grant's",main,595,false,656
+6,White-faced whistling duck,forest,1304,true,637
+7,"Tenrec, tailless",beach,3436,false,164
+8,Grey heron,beach,288,false,36
+9,"Godwit, hudsonian",main,1026,true,585
+10,Painted stork,beach,1209,true,356
+11,Great egret,main,3154,true,552
+12,Euro wallaby,main,103,true,24
+13,Glossy ibis,main,3071,false,4
+14,Polar bear,forest,3153,true,356
+15,Brazilian tapir,main,573,false,318
+16,Tawny eagle,forest,4932,true,969
+17,Radiated tortoise,main,774,false,17
+18,Bobcat,beach,4668,false,629
+19,Smith's bush squirrel,forest,4190,true,863
+20,Grey mouse lemur,main,1356,false,102
+21,Bennett's wallaby,forest,1692,false,282
+22,"Bandicoot, long-nosed",beach,373,true,383
+23,"Skimmer, four-spotted",main,1530,true,809
+24,"Otter, cape clawless",beach,2110,true,627
+25,Two-banded monitor,beach,1554,false,608
+26,"Boa, malagasy ground",main,2591,true,113
+27,"Cat, toddy",main,1494,false,163
+28,Giant heron,beach,422,true,489
+29,Gelada baboon,forest,1996,true,968
+30,White-winged black tern,beach,1180,true,175
+31,"Genet, common",forest,4725,false,82
+32,"Snake, green vine",beach,1393,false,581
+33,Little heron,main,1534,true,521
+34,Mudskipper (unidentified),main,520,false,106
+35,"Kangaroo, eastern grey",beach,3825,true,86
+36,Gray duiker,beach,1634,true,372
+37,"Wallaby, euro",forest,3314,false,639
+38,Rock dove,main,475,true,524
+39,Eastern dwarf mongoose,beach,3636,true,851
+40,Antelope ground squirrel,forest,63,false,91
+41,"Eagle, golden",forest,1796,false,876
+42,Small-toothed palm civet,beach,2839,false,942
+43,"Legaan, Monitor (unidentified)",beach,3186,false,245
+44,Australian spiny anteater,beach,692,true,25
+45,Large cormorant,forest,1702,false,193
+46,"Baboon, gelada",beach,2755,true,994
+47,"Booby, blue-faced",beach,2977,false,887
+48,"Langur, hanuman",forest,2817,false,386
+49,"Puma, south american",beach,1205,false,765
+50,"Squirrel, pine",forest,4482,true,249
+51,"Goat, mountain",forest,4918,true,287
+52,Andean goose,beach,413,true,828
+53,"Cat, native",beach,4434,false,943
+54,Blue-tongued lizard,main,674,false,938
+55,"Jaeger, long-tailed",main,3862,false,379
+56,Common grenadier,forest,3430,true,276
+57,Neotropic cormorant,main,732,true,340
+58,Black-capped capuchin,forest,1318,false,220
+59,Marine iguana,forest,979,false,108
+60,"Marmot, hoary",beach,686,true,341
+61,Comb duck,forest,1212,true,502
+62,"Crow, american",main,2616,true,799
+63,Columbian rainbow boa,main,3756,true,729
+64,"Moorhen, purple",forest,703,true,662
+65,Galapagos mockingbird,forest,523,true,263
+66,Lava gull,beach,2477,false,438
+67,"Deer, mule",forest,376,false,206
+68,Striated heron,beach,1836,false,388
+69,Jaguar,main,4006,true,173
+70,"Lion, asian",beach,694,false,402
+71,"Turkey, australian brush",beach,1026,false,56
+72,"Crocodile, nile",main,172,true,662
+73,Black-necked stork,forest,2029,false,271
+74,"Pelican, australian",main,760,false,975
+75,"Skimmer, four-spotted",forest,2245,false,834
+76,"Vulture, black",beach,1559,false,728
+77,"Barbet, crested",beach,3585,false,388
+78,"Robin, kalahari scrub",main,4268,true,504
+79,White-throated monitor,beach,104,true,556
+80,"Avocet, pied",beach,3704,true,101
+81,"Booby, blue-footed",forest,3715,false,236
+82,South American sea lion,beach,3505,true,967
+83,Arctic tern,forest,574,true,995
+84,Crested screamer,main,4866,true,649
+85,Mouflon,main,1211,true,418
+86,Grizzly bear,main,2154,false,786
+87,Leadbeateri's ground hornbill,beach,4249,false,314
+88,White-necked raven,main,4705,false,115
+89,"Squirrel, richardson's ground",beach,710,true,594
+90,African skink,main,2431,false,623
+91,Nilgai,forest,3021,false,166
+92,"Kangaroo, eastern grey",forest,1878,true,166
+93,"Bee-eater, carmine",main,2837,false,110
+94,Vine snake (unidentified),forest,4720,false,462
+95,"Bee-eater, carmine",main,3703,false,112
+96,Silver-backed fox,main,4184,false,857
+97,Sally lightfoot crab,beach,77,false,874
+98,White-fronted bee-eater,main,600,true,657
+99,Tasmanian devil,main,3411,false,48
+100,"Baboon, chacma",beach,3063,false,9
+101,Sea birds (unidentified),beach,2953,false,677
+102,Sidewinder,beach,1853,false,73
+103,Long-tailed jaeger,beach,1153,true,467
+104,Common waterbuck,main,1234,true,455
+105,"Eagle, golden",beach,2744,true,540
+106,Gambel's quail,beach,739,false,3
+107,Mountain duck,beach,3426,true,913
+108,Weeper capuchin,beach,3000,false,991
+109,Fringe-eared oryx,main,2214,false,966
+110,Collared lizard,beach,125,true,768
+111,Red sheep,beach,2134,true,770
+112,Snowy sheathbill,main,188,true,526
+113,Mountain lion,main,3083,true,752
+114,Red kangaroo,beach,1280,false,59
+115,Glossy ibis,main,358,true,802
+116,Asian false vampire bat,forest,2367,false,167
+117,Tasmanian devil,main,2261,false,191
+118,King cormorant,beach,4485,false,951
+119,Boat-billed heron,main,2797,false,460
+120,Brindled gnu,main,4363,true,55
+121,"Macaque, pig-tailed",forest,2611,false,114
+122,"Robin, white-throated",main,4093,true,815
+123,"Pie, indian tree",forest,473,false,451
+124,Glossy starling (unidentified),forest,862,false,746
+125,American crow,forest,163,true,801
+126,"Raven, white-necked",beach,4358,true,244
+127,"Dragon, asian water",main,3539,false,451
+128,"Penguin, fairy",main,38,false,901
+129,Red-billed hornbill,beach,2608,false,209
+130,Bush dog,beach,3830,true,25
+131,Bent-toed gecko,beach,2299,true,525
+132,"Macaw, red and blue",forest,4312,false,186
+133,Malay squirrel (unidentified),main,3948,true,202
+134,Magistrate black colobus,beach,4518,true,262
+135,"Bustard, denham's",forest,3345,true,604
+136,Woylie,beach,2223,true,447
+137,"Capuchin, black-capped",main,1609,true,352
+138,Black-footed ferret,forest,4905,false,680
+139,White-mantled colobus,beach,3604,false,92
+140,Short-nosed bandicoot,forest,3076,true,159
+141,Hawk-headed parrot,beach,742,false,477
+142,"White-eye, pale",main,3442,true,989
+143,Common wallaroo,beach,2912,false,182
+144,"Baboon, savanna",forest,2139,true,853
+145,"Kingfisher, pied",forest,2800,true,824
+146,Long-tailed jaeger,forest,296,true,244
+147,"Beaver, north american",beach,3929,false,535
+148,Striped hyena,main,2274,false,786
+149,"Monkey, red howler",main,540,true,655
+150,Eurasian hoopoe,beach,1308,false,687
+151,"Turkey, wild",beach,1850,false,257
+152,Red deer,forest,3287,true,487
+153,"Jackal, asiatic",main,3548,false,233
+154,Eastern cottontail rabbit,main,3226,true,20
+155,"Bear, grizzly",beach,4226,false,959
+156,Southern ground hornbill,forest,1389,true,570
+157,"Opossum, american virginia",beach,5000,false,621
+158,Bontebok,beach,1044,false,90
+159,Margay,main,3573,true,333
+160,"Dove, rock",forest,2799,false,296
+161,"Whale, killer",main,4617,false,765
+162,Little brown bat,forest,1763,true,713
+163,"Bird, red-billed tropic",beach,4776,true,772
+164,"Colobus, black and white",main,3651,false,581
+165,Indian mynah,beach,1665,false,608
+166,Netted rock dragon,forest,158,false,177
+167,Ornate rock dragon,forest,2808,false,398
+168,Painted stork,main,4002,true,509
+169,"Crab, sally lightfoot",main,2518,false,752
+170,"Skimmer, four-spotted",main,1777,true,233
+171,"Salmon, sockeye",beach,2924,false,937
+172,"Penguin, fairy",forest,4784,false,409
+173,"Antechinus, brown",beach,1198,false,311
+174,"Skua, great",beach,3757,false,526
+175,"Snake, eastern indigo",forest,185,true,240
+176,African ground squirrel (unidentified),forest,1633,true,64
+177,Galapagos tortoise,beach,2867,true,689
+178,Red and blue macaw,beach,4017,false,340
+179,"Squirrel, eurasian red",forest,811,true,858
+180,Grey heron,beach,2151,true,893
+181,Western grey kangaroo,main,2344,false,863
+182,Puku,forest,243,true,796
+183,"Frogmouth, tawny",forest,62,false,94
+184,"Rhinoceros, white",main,2313,true,349
+185,"Parakeet, rose-ringed",forest,779,true,650
+186,"Squirrel, golden-mantled ground",forest,1106,false,50
+187,"Siskin, yellow-rumped",forest,213,true,352
+188,"Marten, american",beach,468,false,59
+189,Blue shark,beach,3284,true,302
+190,Hippopotamus,beach,3311,false,873
+191,Savannah deer (unidentified),beach,1145,false,936
+192,"Dog, african wild",forest,4425,false,324
+193,"Dragon, ornate rock",main,1273,false,724
+194,Australian magpie,main,402,false,674
+195,Mexican wolf,forest,3995,false,14
+196,"Partridge, coqui",beach,2538,true,446
+197,Red brocket,beach,4309,false,363
+198,"Gull, silver",beach,2763,true,565
+199,Agama lizard (unidentified),main,17,true,350
+200,"Hen, sage",beach,4008,false,110
+201,Egyptian vulture,beach,4845,false,911
+202,"Bat, asian false vampire",beach,4580,true,226
+203,African porcupine,forest,3119,true,583
+204,Galapagos tortoise,main,886,false,813
+205,Red-billed hornbill,main,4687,true,785
+206,"Swan, trumpeter",forest,1145,true,378
+207,Mountain goat,forest,2062,true,883
+208,Red howler monkey,beach,1624,true,898
+209,Snow goose,beach,1375,false,172
+210,"Stork, black-necked",forest,3132,true,736
+211,Komodo dragon,forest,3733,false,446
+212,Asian false vampire bat,main,394,false,750
+213,"Sheep, american bighorn",forest,2371,true,198
+214,"Egret, cattle",main,3051,false,528
+215,"Shrike, common boubou",beach,4467,false,200
+216,"Racer, blue",forest,2166,true,597
+217,"Eagle, white-bellied sea",main,1709,false,995
+218,"Rabbit, eastern cottontail",main,2437,true,212
+219,White-bellied sea eagle,main,917,true,208
+220,Dama wallaby,beach,2585,false,108
+221,White-headed vulture,main,893,false,247
+222,Indian peacock,beach,2009,false,129
+223,Tammar wallaby,beach,3288,false,744
+224,Savannah deer (unidentified),forest,4727,false,59
+225,"Legaan, water",forest,3616,false,457
+226,Gray heron,forest,629,false,906
+227,Sage grouse,forest,3659,false,843
+228,Greater roadrunner,beach,1044,true,117
+229,"Buffalo, american",forest,3697,false,738
+230,White-throated toucan,main,3379,true,233
+231,"Cat, jungle",main,4169,false,608
+232,Southern screamer,forest,4998,true,333
+233,Crested screamer,beach,2474,false,879
+234,Spotted hyena,forest,4026,false,966
+235,"Butterfly, canadian tiger swallowtail",forest,2732,false,908
+236,Red and blue macaw,main,3884,true,968
+237,Peregrine falcon,beach,1971,false,531
+238,Adouri (unidentified),beach,1669,false,156
+239,"Hoopoe, eurasian",forest,3757,false,677
+240,Jabiru stork,forest,2298,false,827
+241,Glossy ibis,main,1024,true,880
+242,"Kangaroo, western grey",forest,3916,true,928
+243,Elegant crested tinamou,main,1928,true,318
+244,Lilac-breasted roller,forest,1004,false,353
+245,Red-capped cardinal,main,393,false,623
+246,"Siskin, pine",beach,1864,true,100
+247,"Cockatoo, red-breasted",beach,2910,false,627
+248,Wild turkey,beach,907,true,240
+249,"Jackal, golden",forest,757,false,935
+250,Woodchuck,main,3683,true,715
+251,Cape raven,beach,1806,false,639
+252,Western spotted skunk,beach,323,false,14
+253,"Genet, small-spotted",beach,4893,false,935
+254,"Civet, common palm",main,1240,true,387
+255,"Fox, silver-backed",forest,858,false,422
+256,"Bunting, crested",forest,3530,true,575
+257,"Jackal, indian",beach,1525,false,870
+258,"Tortoise, burmese black mountain",forest,4621,false,417
+259,Spectacled caiman,forest,2564,true,331
+260,European stork,main,2783,true,553
+261,Racer snake,main,4145,true,181
+262,Snowy egret,main,1262,false,987
+263,"Deer, savannah",forest,1075,true,936
+264,Southern hairy-nosed wombat,beach,860,false,759
+265,Dark-winged trumpeter,main,4015,false,623
+266,Yellow-throated sandgrouse,beach,1250,true,324
+267,"Duck, mountain",forest,3873,true,245
+268,Leadbeateri's ground hornbill,beach,4104,false,43
+269,"Lion, australian sea",main,2733,true,111
+270,"Shrew, mandras tree",main,3991,true,832
+271,"Beaver, eurasian",main,1989,false,208
+272,Meerkat,forest,1919,true,365
+273,"Possum, ring-tailed",main,4350,true,460
+274,"Otter, oriental short-clawed",beach,4542,false,126
+275,"Capuchin, weeper",beach,242,false,250
+276,"Blackbird, red-winged",beach,1348,true,172
+277,"Wagtail, african pied",beach,2813,true,691
+278,"Shark, blue",beach,1853,false,371
+279,"Squirrel, pine",main,3341,true,742
+280,"Cat, cape wild",beach,3193,false,386
+281,Grison,forest,581,true,860
+282,"Kookaburra, laughing",forest,3471,false,16
+283,"Gull, pacific",forest,1749,true,155
+284,"Goose, snow",forest,4656,false,177
+285,"Vulture, white-headed",forest,839,true,156
+286,Puma,main,303,true,877
+287,"Kingfisher, white-throated",forest,3066,false,111
+288,Cape starling,beach,970,true,96
+289,Red-headed woodpecker,main,2093,true,600
+290,White-cheeked pintail,main,200,true,989
+291,"Chickadee, black-capped",main,2587,true,716
+292,"Crane, brolga",beach,31,false,930
+293,Long-tailed skua,main,2916,true,815
+294,Cape cobra,forest,4743,false,290
+295,"Godwit, hudsonian",beach,4890,true,927
+296,Yellow baboon,forest,3952,false,574
+297,Little brown bat,beach,1804,false,575
+298,"Dragon, netted rock",forest,2893,true,983
+299,Gray rhea,main,3710,false,300
+300,Arctic hare,forest,4916,false,282
+301,"Hornbill, yellow-billed",beach,121,false,797
+302,American Virginia opossum,forest,4777,true,348
+303,African snake (unidentified),main,2915,false,861
+304,Ostrich,beach,4123,true,244
+305,"Fox, savanna",forest,4331,false,272
+306,"Owl, white-browed",forest,637,true,90
+307,Cereopsis goose,beach,1321,true,219
+308,"Kangaroo, brush-tailed rat",forest,3628,true,157
+309,"Stork, saddle-billed",forest,3779,true,810
+310,Palm squirrel,forest,3534,false,376
+311,Stone sheep,forest,2864,false,220
+312,Cereopsis goose,beach,1619,false,708
+313,Field flicker,beach,4947,false,182
+314,"Crow, american",beach,762,false,496
+315,Asian red fox,forest,1205,false,549
+316,Blue wildebeest,beach,3777,true,683
+317,Defassa waterbuck,main,3200,false,918
+318,"Goose, canada",main,4021,false,593
+319,Toddy cat,beach,4354,true,455
+320,Water moccasin,beach,3878,false,454
+321,"Tarantula, salmon pink bird eater",main,1325,false,479
+322,"Macaw, scarlet",main,869,true,465
+323,"Cat, native",forest,366,false,601
+324,Superb starling,beach,189,false,881
+325,"Lion, steller's sea",main,2211,false,768
+326,Dassie,beach,4766,false,828
+327,"Owl, burrowing",main,2335,true,579
+328,Thirteen-lined squirrel,beach,4201,false,67
+329,African darter,forest,2466,false,730
+330,"Skink, african",beach,2159,false,719
+331,"Skunk, striped",beach,1762,true,511
+332,Mountain goat,beach,4161,true,950
+333,Common waterbuck,main,3016,false,401
+334,"Buffalo, african",forest,1802,true,462
+335,"Pheasant, common",beach,1578,false,155
+336,White-browed owl,forest,1561,false,699
+337,Pampa gray fox,forest,2223,false,107
+338,Burrowing owl,main,1197,true,964
+339,Baleen whale,main,929,false,288
+340,"Bird, bare-faced go away",beach,3034,true,396
+341,Levaillant's barbet,forest,110,false,625
+342,Ground legaan,main,3546,false,287
+343,"Cat, kaffir",beach,209,false,547
+344,"Badger, eurasian",beach,1719,false,578
+345,Giant heron,forest,395,true,145
+346,Violet-crested turaco,forest,4041,true,974
+347,Magnificent frigate bird,beach,1033,true,405
+348,Ant (unidentified),forest,3268,false,444
+349,Black curlew,main,2022,false,94
+350,Magnificent frigate bird,main,2052,false,612
+351,Radiated tortoise,main,2687,true,628
+352,"Pelican, brown",forest,2913,true,510
+353,Common eland,main,4737,true,521
+354,"Meerkat, red",forest,1571,true,246
+355,"Owl, burrowing",forest,1212,false,641
+356,"Sloth, two-toed tree",forest,4730,false,553
+357,Impala,main,2985,false,356
+358,"Heron, green-backed",beach,1790,false,723
+359,"Legaan, water",main,2415,false,233
+360,Palm squirrel,main,353,true,232
+361,Gulls (unidentified),main,2870,false,197
+362,African lynx,beach,2706,false,425
+363,Groundhog,main,4141,false,916
+364,Red-billed tropic bird,forest,2658,true,632
+365,Woolly-necked stork,main,3199,true,872
+366,American black bear,main,4573,false,499
+367,"Eagle, bateleur",beach,427,false,71
+368,Guerza,main,1465,true,776
+369,"Lizard, collared",beach,4573,true,350
+370,Grison,forest,2507,true,244
+371,"Bustard, kori",beach,1806,false,648
+372,Peregrine falcon,main,1311,false,137
+373,"Marshbird, brown and yellow",forest,2629,false,169
+374,Suricate,beach,4532,false,341
+375,Frilled lizard,forest,2706,false,726
+376,Wood pigeon,beach,160,false,520
+377,Mexican wolf,main,3800,false,705
+378,Hawk-headed parrot,beach,1837,false,1
+379,"Wallaby, dama",forest,2505,false,505
+380,Blue fox,main,2695,false,127
+381,"Bleu, red-cheeked cordon",main,4645,true,274
+382,"Skua, long-tailed",main,3923,false,558
+383,Magistrate black colobus,main,3869,true,823
+384,"Gonolek, burchell's",beach,4338,false,507
+385,"Albatross, galapagos",beach,2187,true,78
+386,"Porcupine, tree",main,23,false,212
+387,White-faced tree rat,forest,446,true,129
+388,"Stork, saddle-billed",beach,4309,true,265
+389,"Raven, white-necked",forest,1094,true,980
+390,"Badger, honey",beach,364,true,940
+391,"Bushbaby, large-eared",beach,199,false,73
+392,"Hartebeest, red",beach,2814,true,993
+393,"Kangaroo, western grey",beach,1698,true,554
+394,"Curlew, black",beach,478,true,592
+395,"Turkey, australian brush",main,807,true,913
+396,"Cat, long-tailed spotted",main,3030,false,228
+397,Least chipmunk,main,3948,true,109
+398,"Wallaby, euro",main,4286,false,977
+399,Platypus,forest,1709,false,537
+400,Pied butcher bird,forest,3542,true,116
+401,"Monkey, red howler",forest,3894,true,864
+402,"Weaver, sociable",beach,1230,false,289
+403,Crab-eating raccoon,forest,586,false,480
+404,"Crocodile, nile",forest,3509,true,144
+405,Fairy penguin,forest,284,true,768
+406,"Lion, australian sea",beach,4570,true,257
+407,Black-collared barbet,forest,4102,true,575
+408,Long-tailed spotted cat,beach,2546,false,475
+409,Scarlet macaw,main,2950,true,494
+410,Crested bunting,main,3248,false,837
+411,Arctic hare,forest,3415,true,469
+412,Desert spiny lizard,beach,4667,false,737
+413,"Tortoise, radiated",forest,1005,false,296
+414,Sidewinder,forest,2893,false,388
+415,Sambar,forest,599,false,229
+416,Grizzly bear,main,744,false,764
+417,Southern hairy-nosed wombat,main,4664,false,612
+418,"Porcupine, prehensile-tailed",main,3610,true,860
+419,Chacma baboon,beach,1771,true,469
+420,American buffalo,forest,1934,false,363
+421,Ostrich,forest,4449,false,759
+422,"Oystercatcher, blackish",beach,3053,false,845
+423,"Squirrel, golden-mantled ground",beach,4547,true,768
+424,"Goldeneye, common",main,4580,true,647
+425,"Pigeon, feral rock",beach,3749,true,205
+426,African fish eagle,beach,3396,true,720
+427,African ground squirrel (unidentified),forest,4100,true,698
+428,"Eagle, tawny",forest,1016,false,685
+429,Giant anteater,beach,2015,false,223
+430,Crab-eating fox,main,4215,true,16
+431,"Deer, savannah",main,3000,false,786
+432,"Fox, asian red",main,1091,true,943
+433,"Chickadee, black-capped",beach,3983,true,693
+434,Richardson's ground squirrel,beach,1828,true,514
+435,Southern elephant seal,main,4311,false,597
+436,Greater flamingo,main,947,true,747
+437,Impala,main,4232,false,466
+438,"Spurfowl, yellow-necked",beach,1128,false,800
+439,"Creeper, black-tailed tree",forest,3002,false,435
+440,Desert spiny lizard,forest,195,false,464
+441,Galapagos hawk,forest,2632,true,130
+442,Asian red fox,forest,4867,true,556
+443,Woodrat (unidentified),forest,3932,true,836
+444,Denham's bustard,main,1391,true,214
+445,"Penguin, little blue",beach,2316,false,584
+446,Eleven-banded armadillo (unidentified),beach,2109,false,50
+447,Adouri (unidentified),main,752,true,933
+448,"Tamandua, southern",beach,2831,false,570
+449,"Eagle, pallas's fish",main,1615,false,314
+450,Arctic hare,main,1240,true,961
+451,Blue-breasted cordon bleu,main,524,true,259
+452,"Starling, superb",beach,3170,true,798
+453,Lapwing (unidentified),beach,4337,true,737
+454,"Hawk, galapagos",forest,2234,false,585
+455,Western spotted skunk,beach,2010,false,849
+456,"Alligator, mississippi",beach,1224,false,37
+457,"Chickadee, black-capped",main,3506,true,62
+458,"Cormorant, large",main,2071,false,193
+459,"Tortoise, desert",main,4228,true,427
+460,"Pelican, great white",main,4809,true,312
+461,"Wambenger, red-tailed",forest,4225,true,159
+462,"Bleu, blue-breasted cordon",main,1138,true,443
+463,"Vulture, king",beach,276,true,374
+464,"Cormorant, javanese",main,1100,false,842
+465,American woodcock,forest,4618,true,728
+466,"Legaan, ground",main,4074,true,34
+467,"Marshbird, brown and yellow",beach,665,false,228
+468,"Grenadier, common",main,3339,false,252
+469,"Dove, laughing",main,4338,true,258
+470,"Bustard, denham's",main,554,false,256
+471,California sea lion,forest,2994,true,853
+472,Galapagos tortoise,forest,1997,false,335
+473,"Anteater, australian spiny",beach,1861,true,741
+474,Giant anteater,forest,2566,false,172
+475,Crested bunting,beach,2100,true,708
+476,Giant girdled lizard,main,4417,true,631
+477,Black-necked stork,beach,3574,false,819
+478,"Boar, wild",main,2912,true,958
+479,"Heron, little",beach,420,false,606
+480,"Civet, common palm",beach,942,true,873
+481,Wood pigeon,main,4189,true,997
+482,Ring-tailed possum,beach,162,false,265
+483,"Hornbill, red-billed",main,555,true,992
+484,"Bleu, blue-breasted cordon",main,2401,true,223
+485,Musk ox,main,2402,false,183
+486,"Sheep, american bighorn",main,1697,true,725
+487,Meerkat,forest,2660,false,500
+488,"Otter, oriental short-clawed",forest,2947,true,934
+489,"Heron, green",main,677,true,376
+490,Crested screamer,beach,2897,true,527
+491,"Goose, spur-winged",main,1840,false,886
+492,Eastern white pelican,forest,3924,false,893
+493,"Owl, snowy",forest,4161,false,749
+494,"Eland, common",main,1351,true,134
+495,Little brown bat,main,2889,false,633
+496,"Ferret, black-footed",forest,625,true,71
+497,"Bleu, red-cheeked cordon",beach,3773,true,395
+498,"Spider, wolf",beach,2136,true,292
+499,"Rat, arboral spiny",main,1781,true,492
+500,Tyrant flycatcher,forest,26,false,46
+501,"Wildebeest, blue",forest,4057,true,501
+502,Lily trotter,beach,4833,false,221
+503,"Siskin, yellow-rumped",forest,3785,true,537
+504,"Whale, southern right",main,670,false,114
+505,"Salmon, sockeye",beach,193,false,181
+506,Bobcat,beach,68,false,806
+507,"Squirrel, smith's bush",main,4370,true,174
+508,"Wapiti, elk,",forest,3102,true,941
+509,Long-necked turtle,forest,269,false,433
+510,"Lorikeet, scaly-breasted",beach,2435,true,398
+511,Kori bustard,beach,3909,false,101
+512,Yellow-billed stork,forest,808,true,293
+513,"Albatross, waved",beach,2616,true,835
+514,"Mynah, indian",beach,517,false,253
+515,"Marten, american",beach,2980,true,601
+516,"Mongoose, yellow",beach,984,false,739
+517,"Wapiti, elk,",beach,3989,true,472
+518,"Parrot, hawk-headed",forest,1361,false,569
+519,Seven-banded armadillo,beach,966,true,247
+520,"Goose, spur-winged",forest,3269,true,841
+521,Sociable weaver,beach,1455,true,596
+522,Malagasy ground boa,beach,389,true,276
+523,Horned lark,beach,4749,true,735
+524,"Pie, rufous tree",main,2532,false,339
+525,"Mockingbird, galapagos",beach,3475,true,315
+526,"Rhinoceros, square-lipped",beach,4374,false,829
+527,Indian porcupine,main,1742,false,614
+528,"Crow, american",beach,294,true,651
+529,American alligator,forest,3367,true,705
+530,Two-toed tree sloth,beach,893,true,658
+531,White-fronted capuchin,forest,1530,true,808
+532,"Quoll, spotted-tailed",forest,4741,true,567
+533,"Ferret, black-footed",forest,2977,false,521
+534,"Tinamou, elegant crested",main,3621,false,887
+535,Snow goose,main,2750,false,74
+536,"White-eye, cape",forest,536,false,391
+537,"Deer, mule",main,4261,false,534
+538,Black-winged stilt,beach,3340,true,545
+539,Masked booby,forest,3950,false,18
+540,"Caiman, spectacled",main,890,false,425
+541,Scaly-breasted lorikeet,forest,3829,true,268
+542,"Squirrel, indian giant",forest,1626,true,356
+543,"Stork, greater adjutant",beach,2457,false,326
+544,Water monitor,main,924,false,188
+545,Sambar,beach,1698,true,84
+546,Crab (unidentified),forest,506,true,143
+547,Crowned hawk-eagle,forest,4679,true,250
+548,"Flicker, field",main,4022,false,619
+549,Pine siskin,beach,1073,false,936
+550,"Rat, desert kangaroo",forest,3810,true,994
+551,"Glider, feathertail",beach,4284,false,183
+552,"Bee-eater, nubian",forest,139,true,705
+553,"Squirrel, malabar",main,2406,false,507
+554,"Fox, pampa gray",main,1316,false,536
+555,"Tamandua, southern",forest,2901,false,292
+556,"Shark, blue",forest,785,true,474
+557,Weeper capuchin,beach,350,false,943
+558,Emu,beach,1348,false,732
+559,Red-cheeked cordon bleu,main,868,false,553
+560,"Cat, long-tailed spotted",beach,2919,true,360
+561,"Stork, european",main,2045,false,714
+562,Southern ground hornbill,main,2800,true,15
+563,"Bird, black-throated butcher",beach,1014,true,926
+564,"Dolphin, bottle-nose",forest,2058,true,759
+565,White stork,beach,7,true,281
+566,European spoonbill,beach,373,true,804
+567,Black-crowned crane,beach,449,false,370
+568,"Skimmer, four-spotted",forest,2304,false,495
+569,"Butterfly, canadian tiger swallowtail",main,2764,true,580
+570,"Wombat, common",beach,1336,true,621
+571,"Buffalo, american",main,472,false,518
+572,"Porcupine, crested",beach,4184,true,866
+573,White-throated toucan,beach,669,false,967
+574,"Duck, blue",main,335,false,291
+575,Two-banded monitor,forest,4161,false,140
+576,Chilean flamingo,main,4689,false,314
+577,Tawny frogmouth,forest,4057,true,775
+578,Sidewinder,forest,1728,false,426
+579,"Iguana, land",main,3077,false,821
+580,Spectacled caiman,main,107,false,615
+581,African elephant,main,291,false,395
+582,"Albatross, waved",main,1684,true,980
+583,"Albatross, waved",beach,1549,true,363
+584,Northern elephant seal,main,4736,true,814
+585,"Robin, kalahari scrub",beach,249,true,643
+586,Goanna lizard,forest,3822,false,727
+587,Southern right whale,beach,725,false,796
+588,North American red fox,forest,4767,true,188
+589,Savanna fox,main,3386,false,595
+590,"Squirrel, nelson ground",beach,4803,false,18
+591,Kaffir cat,beach,981,true,817
+592,Bald eagle,forest,1961,true,635
+593,Frilled dragon,forest,1670,false,933
+594,"Racer, american",main,3058,true,364
+595,Anaconda (unidentified),forest,66,false,534
+596,Cape starling,beach,3526,false,165
+597,Lizard (unidentified),main,719,true,862
+598,Buttermilk snake,main,3779,true,931
+599,Worm snake (unidentified),beach,2806,false,916
+600,Euro wallaby,forest,1846,false,701
+601,"Shark, blue",beach,451,false,143
+602,Eastern quoll,beach,2701,true,840
+603,"Sheep, stone",main,2482,true,710
+604,Burchell's gonolek,forest,2060,false,199
+605,"Booby, blue-faced",main,3377,false,134
+606,Rainbow lory,forest,3132,false,956
+607,"Bird, black-throated butcher",main,1789,true,125
+608,"Shelduck, european",main,1795,true,849
+609,Paradoxure,beach,755,true,199
+610,Oribi,forest,776,false,860
+611,Steller sea lion,beach,343,false,336
+612,"Porcupine, crested",forest,1980,false,295
+613,Wattled crane,beach,2617,true,820
+614,Common wallaroo,beach,299,true,159
+615,"Whale, southern right",forest,4905,false,228
+616,"Spurfowl, yellow-necked",main,4341,true,535
+617,Thomson's gazelle,forest,3579,false,415
+618,Glossy starling (unidentified),main,2494,true,310
+619,"Tarantula, salmon pink bird eater",forest,2794,true,962
+620,"Raccoon, crab-eating",beach,4622,false,118
+621,Blue crane,beach,4725,true,917
+622,Downy woodpecker,beach,4776,false,936
+623,"Stork, white",forest,4885,false,984
+624,Caracal,beach,3806,false,887
+625,Green vine snake,beach,1653,false,779
+626,"Whale, killer",beach,4313,false,714
+627,Silver-backed jackal,main,2988,false,707
+628,"Screamer, crested",main,1553,true,348
+629,"Rat, white-faced tree",main,411,true,453
+630,"Swan, trumpeter",beach,1068,true,800
+631,Tawny frogmouth,beach,2069,true,203
+632,Genoveva,forest,4248,false,604
+633,"Weaver, lesser masked",main,1560,true,884
+634,Bushbuck,beach,692,false,56
+635,"Boubou, southern",forest,4269,true,933
+636,Cheetah,beach,4078,true,611
+637,Mississippi alligator,main,917,false,943
+638,"Antelope, four-horned",beach,4193,false,498
+639,"Flicker, field",main,2120,true,155
+640,"Gecko, barking",forest,2168,false,733
+641,Mississippi alligator,forest,1808,false,611
+642,"Roller, lilac-breasted",beach,210,true,674
+643,"Monitor, white-throated",main,3431,false,668
+644,"Legaan, water",beach,631,false,37
+645,Common seal,main,1718,false,968
+646,Australian pelican,beach,4712,false,475
+647,"Snake, carpet",beach,2869,false,77
+648,Tammar wallaby,beach,2278,false,957
+649,Gray duiker,beach,4700,false,204
+650,Arctic ground squirrel,beach,1631,false,399
+651,Lesser double-collared sunbird,beach,286,true,561
+652,Southern elephant seal,beach,1663,false,860
+653,"Pintail, white-cheeked",forest,2785,true,677
+654,"Porcupine, north american",beach,3762,false,352
+655,"Boa, cook's tree",main,3725,false,568
+656,Currasow (unidentified),forest,990,true,756
+657,"Stork, greater adjutant",forest,2302,true,274
+658,Mountain goat,beach,2934,true,940
+659,Steller's sea lion,beach,664,false,717
+660,"Whale, killer",forest,3787,true,134
+661,"Hedgehog, south african",beach,2926,true,955
+662,"Crocodile, nile",forest,2325,true,266
+663,Spur-winged goose,forest,800,true,146
+664,Wild boar,beach,1594,true,225
+665,"Hyena, striped",main,3384,true,808
+666,"Raccoon, common",beach,913,false,453
+667,Golden-mantled ground squirrel,forest,2898,false,731
+668,"Skua, long-tailed",main,3376,true,721
+669,"Squirrel, golden-mantled ground",main,1339,true,303
+670,White spoonbill,beach,2328,true,693
+671,"Polecat, african",beach,3082,true,110
+672,"Capuchin, weeper",beach,773,false,956
+673,Blue and yellow macaw,beach,2895,true,354
+674,"Brocket, red",forest,678,true,15
+675,Campo flicker,forest,4292,false,892
+676,South American meadowlark (unidentified),main,1646,false,271
+677,"Sloth, two-toed tree",forest,3314,false,408
+678,Greater adjutant stork,forest,1646,false,83
+679,"Starling, greater blue-eared",main,2131,true,899
+680,Australian magpie,main,3910,true,107
+681,Asian water buffalo,beach,4189,true,892
+682,Yellow-necked spurfowl,main,990,true,100
+683,Great white pelican,forest,4586,false,14
+684,"Cat, long-tailed spotted",forest,430,false,891
+685,"Macaque, rhesus",forest,1702,false,899
+686,"Bison, american",main,246,true,573
+687,Stanley bustard,main,4399,false,257
+688,White-rumped vulture,beach,2224,false,47
+689,Guanaco,beach,2931,true,656
+690,"Teal, hottentot",main,3794,true,996
+691,Long-crested hawk eagle,main,4898,true,458
+692,Dromedary camel,main,3603,false,520
+693,Galapagos sea lion,forest,3240,false,563
+694,"Badger, american",forest,4111,false,39
+695,Boat-billed heron,main,838,false,714
+696,"Hoopoe, eurasian",beach,2424,false,109
+697,Ground legaan,forest,799,false,304
+698,"Seal, harbor",forest,4991,false,462
+699,Violet-eared waxbill,main,2037,true,538
+700,Cape wild cat,main,2627,true,109
+701,"Mongoose, banded",beach,3351,false,572
+702,"Pelican, great white",main,2431,true,667
+703,"Cat, african wild",main,671,false,671
+704,Fat-tailed dunnart,forest,508,false,468
+705,Spotted wood sandpiper,beach,49,false,549
+706,"Tortoise, galapagos",main,64,true,529
+707,Verreaux's sifaka,main,2844,false,104
+708,Tammar wallaby,forest,3530,false,291
+709,African clawless otter,beach,2520,false,204
+710,Galapagos penguin,beach,2403,false,562
+711,Jungle cat,beach,3832,true,677
+712,"Lemur, sportive",beach,53,true,747
+713,Greater blue-eared starling,beach,2039,true,93
+714,South African hedgehog,beach,811,false,753
+715,"Bee-eater, white-fronted",main,3384,false,90
+716,Kirk's dik dik,beach,429,true,313
+717,"Grebe, little",beach,4125,false,712
+718,Common brushtail possum,forest,1719,false,727
+719,"Waxbill, blue",main,931,true,170
+720,"Sunbird, lesser double-collared",forest,3657,false,674
+721,Palm squirrel,main,2914,true,197
+722,"Pelican, great white",forest,890,false,660
+723,"Cat, tiger",main,4534,true,239
+724,Ringtail cat,beach,3445,false,241
+725,Crimson-breasted shrike,beach,2768,false,124
+726,"Wallaby, whip-tailed",beach,552,false,19
+727,Mandras tree shrew,main,3051,true,783
+728,White-bellied sea eagle,main,1395,true,127
+729,"Sparrow, rufous-collared",forest,1176,false,852
+730,"Stork, european",forest,2120,true,986
+731,"Eagle, white-bellied sea",beach,2525,true,135
+732,"Rattlesnake, horned",forest,3793,true,192
+733,Oriental white-backed vulture,forest,702,true,638
+734,"Flicker, field",forest,3475,true,264
+735,Purple grenadier,forest,2352,true,916
+736,"Sungazer, yellow-brown",main,1449,false,113
+737,"Stork, painted",beach,2854,false,692
+738,Four-striped grass mouse,main,579,false,122
+739,"Barbet, levaillant's",forest,768,false,905
+740,"Goose, canada",forest,2908,false,213
+741,Neotropic cormorant,forest,205,false,728
+742,"Boa, emerald green tree",main,1506,true,737
+743,Sociable weaver,main,4988,true,95
+744,"Bustard, kori",forest,3186,false,82
+745,Giant anteater,main,212,true,768
+746,"Stork, yellow-billed",beach,3067,true,31
+747,"Rat, arboral spiny",beach,2953,true,488
+748,Southern tamandua,main,1987,false,916
+749,Boat-billed heron,beach,1178,false,834
+750,Pocket gopher (unidentified),forest,4144,true,998
+751,"Peccary, collared",beach,1792,false,688
+752,Sable antelope,forest,1580,true,515
+753,Red-winged blackbird,forest,230,true,269
+754,Barasingha deer,forest,3756,false,749
+755,"Cormorant, little",beach,3295,true,333
+756,Collared peccary,beach,715,true,72
+757,"Porcupine, crested",beach,1146,true,320
+758,"Bulbul, black-fronted",main,1963,false,751
+759,"Parrot, hawk-headed",forest,2954,true,559
+760,"Eagle, bateleur",forest,89,true,842
+761,"Squirrel, eurasian red",forest,628,false,702
+762,Southern elephant seal,forest,3155,true,133
+763,"Bettong, brush-tailed",main,1064,true,283
+764,Blue peacock,beach,3125,true,417
+765,Eurasian hoopoe,forest,71,true,972
+766,Javanese cormorant,main,4245,true,809
+767,Brown lemur,main,2604,false,955
+768,Ocelot,main,1373,true,717
+769,"Cormorant, flightless",forest,3478,true,564
+770,"Lemming, collared",main,512,true,476
+771,"Pelican, eastern white",forest,1464,false,252
+772,Woodchuck,forest,1292,true,917
+773,Prehensile-tailed porcupine,main,3274,false,364
+774,Water monitor,main,4453,false,84
+775,Arctic ground squirrel,main,3366,false,748
+776,"Lourie, grey",forest,2625,true,336
+777,Blue fox,main,893,false,796
+778,"Pelican, eastern white",beach,4923,true,336
+779,"Cat, native",forest,911,false,679
+780,Mudskipper (unidentified),beach,4943,false,613
+781,Long-billed cockatoo,main,2686,true,778
+782,Red-billed toucan,beach,980,true,637
+783,"Waterbuck, common",beach,1279,true,16
+784,"White-eye, pale",beach,4452,false,840
+785,"Nutcracker, clark's",forest,4674,true,184
+786,"White-eye, pale",forest,2508,true,320
+787,Mississippi alligator,forest,3064,false,387
+788,"Cat, ringtail",beach,4848,true,681
+789,"Vulture, turkey",forest,2372,true,818
+790,"Roadrunner, greater",beach,16,false,663
+791,Common melba finch,forest,4660,false,428
+792,Cape Barren goose,main,1395,true,57
+793,Snowy sheathbill,main,4041,true,333
+794,Crab (unidentified),beach,3239,false,655
+795,Guanaco,beach,1570,true,292
+796,"Deer, barasingha",forest,4331,true,370
+797,"Antelope, four-horned",main,2575,false,693
+798,Boat-billed heron,forest,3850,false,590
+799,Cook's tree boa,main,3210,false,449
+800,Coke's hartebeest,forest,1292,false,15
+801,Little heron,main,711,false,142
+802,"Langur, hanuman",beach,4409,false,59
+803,Red-billed tropic bird,main,4725,false,133
+804,"Anteater, giant",forest,4412,true,445
+805,"Stork, saddle-billed",beach,414,false,54
+806,"Dragon, western bearded",forest,2047,true,498
+807,Pine snake (unidentified),forest,1281,false,845
+808,Common brushtail possum,beach,2195,false,903
+809,Beisa oryx,forest,4542,false,472
+810,"Bleu, red-cheeked cordon",main,4417,true,625
+811,"Roller, lilac-breasted",beach,2962,true,496
+812,Galapagos sea lion,beach,2144,false,591
+813,Red-necked phalarope,beach,2795,true,536
+814,Scaly-breasted lorikeet,beach,1354,false,208
+815,Komodo dragon,main,4624,false,630
+816,Guerza,beach,4689,false,453
+817,"Sheep, stone",main,101,false,213
+818,"Dragon, asian water",beach,3810,true,907
+819,"Dog, african wild",main,4902,false,897
+820,"Fox, arctic",forest,2383,true,600
+821,"Falcon, prairie",forest,1243,false,397
+822,Green-backed heron,main,4160,true,803
+823,Sally lightfoot crab,forest,1604,true,735
+824,"Kingfisher, malachite",forest,3572,true,74
+825,Four-spotted skimmer,forest,1664,false,420
+826,"Woodcock, american",beach,4298,false,123
+827,Openbill stork,beach,4776,true,414
+828,Indian mynah,beach,3681,true,277
+829,"Lion, steller sea",main,1474,false,427
+830,"Sloth, two-toed",main,36,false,4
+831,"Vulture, lappet-faced",main,1491,false,143
+832,Jungle kangaroo,main,368,false,711
+833,Oriental short-clawed otter,main,1974,false,34
+834,Mississippi alligator,main,1282,false,551
+835,Galapagos dove,beach,2019,false,996
+836,"Gecko, tokay",main,4958,false,103
+837,"Parrot, hawk-headed",main,2870,false,780
+838,"Goose, egyptian",main,2964,false,439
+839,Common boubou shrike,forest,1887,true,488
+840,African wild cat,beach,2477,true,587
+841,"Bat, asian false vampire",beach,1128,true,342
+842,"Otter, oriental short-clawed",beach,1203,true,816
+843,"Bear, sloth",beach,1010,true,868
+844,Jungle kangaroo,beach,950,true,722
+845,"Wombat, southern hairy-nosed",main,4772,true,490
+846,Wild turkey,beach,28,false,279
+847,European wild cat,main,1632,false,695
+848,Stick insect,forest,4900,true,573
+849,"Wallaby, whip-tailed",forest,2431,false,402
+850,"Deer, spotted",beach,4709,false,340
+851,Trumpeter swan,beach,1963,false,664
+852,"Lizard, goanna",main,1116,true,144
+853,Common dolphin,beach,1723,true,584
+854,Feral rock pigeon,main,2242,true,813
+855,"Phalarope, red",main,1627,true,94
+856,Crimson-breasted shrike,forest,3296,false,272
+857,"Heron, green-backed",forest,2167,false,451
+858,"Flycatcher, tyrant",forest,2090,true,572
+859,Red lava crab,forest,499,false,817
+860,"Macaw, green-winged",beach,3783,false,900
+861,Ring-tailed lemur,forest,1606,false,534
+862,Painted stork,forest,1403,true,411
+863,"Squirrel, indian giant",forest,186,true,105
+864,"Armadillo, nine-banded",main,4911,true,947
+865,Monitor lizard (unidentified),beach,3209,true,9
+866,"Starling, superb",main,1373,true,772
+867,Hoary marmot,beach,4351,false,207
+868,Darwin ground finch (unidentified),beach,4030,true,585
+869,Emerald green tree boa,beach,705,false,218
+870,"Sloth, pale-throated three-toed",beach,4002,false,391
+871,Yellow-headed caracara,beach,446,true,557
+872,Banded mongoose,main,2523,true,919
+873,"Thrasher, curve-billed",beach,2387,false,776
+874,Clark's nutcracker,beach,4251,false,523
+875,"Deer, roe",beach,3386,false,650
+876,Snake (unidentified),beach,1645,true,601
+877,"Dragon, netted rock",main,533,false,930
+878,"Squirrel, indian giant",main,201,false,970
+879,Dingo,main,2620,false,392
+880,"Skunk, striped",beach,2287,true,363
+881,"Hornbill, southern ground",main,4404,true,731
+882,"Heron, boat-billed",beach,2325,false,975
+883,"Pigeon, feral rock",beach,1010,false,86
+884,"Bushbaby, large-eared",main,2031,true,891
+885,Silver-backed fox,forest,1660,false,933
+886,"Skua, long-tailed",beach,3009,false,846
+887,Sulfur-crested cockatoo,main,2070,true,687
+888,"Gull, silver",forest,1436,true,52
+889,Mountain lion,main,2651,false,623
+890,Striped dolphin,forest,387,true,422
+891,North American red fox,beach,3358,true,513
+892,Old world fruit bat (unidentified),beach,945,true,573
+893,"Otter, cape clawless",beach,4441,false,699
+894,"Macaw, scarlet",beach,1851,false,658
+895,Mallard,forest,564,true,74
+896,"Coot, red-knobbed",beach,4530,true,726
+897,Crab (unidentified),main,2810,true,165
+898,Red kangaroo,beach,1729,false,957
+899,Common rhea,main,197,true,882
+900,"Skunk, striped",forest,51,false,304
+901,Huron,beach,4912,true,591
+902,North American river otter,forest,3836,true,652
+903,"Tortoise, indian star",main,4896,true,571
+904,"Avocet, pied",main,349,false,554
+905,"Cat, native",forest,2608,true,600
+906,Brindled gnu,forest,1124,false,334
+907,Alpaca,forest,3547,false,5
+908,"Francolin, coqui",beach,2617,false,246
+909,Bohor reedbuck,forest,2374,true,874
+910,"Stork, european",beach,1386,false,874
+911,"Sandgrouse, yellow-throated",forest,938,true,840
+912,Leopard,beach,3353,false,697
+913,"Swan, black",forest,2556,true,692
+914,Fork-tailed drongo,beach,3037,true,515
+915,"Pintail, bahama",forest,439,true,59
+916,"Weaver, lesser masked",beach,2644,true,800
+917,Little grebe,main,4728,false,984
+918,Land iguana,forest,3234,false,277
+919,Red lava crab,forest,1085,false,130
+920,"Deer, white-tailed",beach,1017,true,213
+921,"Tortoise, burmese brown mountain",forest,3496,false,140
+922,"Starling, superb",main,1757,true,292
+923,Flying fox (unidentified),beach,3855,true,220
+924,Mara,beach,2724,false,948
+925,Smith's bush squirrel,forest,1528,false,882
+926,"Wagtail, african pied",main,2179,false,871
+927,Golden brush-tailed possum,beach,4940,true,598
+928,Bonnet macaque,beach,4920,true,941
+929,Osprey,forest,4133,false,249
+930,"Zebra, plains",forest,2772,false,571
+931,Barasingha deer,main,3804,false,863
+932,"Lorikeet, scaly-breasted",beach,3539,false,2
+933,"Fox, asian red",forest,3339,true,932
+934,"Grenadier, purple",forest,3793,true,40
+935,Black-capped capuchin,forest,89,true,803
+936,Red howler monkey,forest,2911,true,409
+937,"Egret, great",forest,1063,false,552
+938,"Marmot, hoary",forest,3473,false,206
+939,Horned puffin,beach,1482,true,820
+940,Reindeer,forest,2921,false,854
+941,Yellow-throated sandgrouse,beach,1848,false,98
+942,"Cow, scottish highland",beach,2713,false,884
+943,Dark-winged trumpeter,forest,4855,false,894
+944,Mississippi alligator,beach,3158,false,793
+945,"Dove, rock",beach,3076,false,112
+946,South African hedgehog,beach,3872,true,463
+947,Brindled gnu,forest,4263,false,770
+948,"Pelican, great white",forest,1932,true,454
+949,Golden-mantled ground squirrel,main,1257,true,686
+950,Grey phalarope,main,76,false,551
+951,Ring-tailed gecko,main,3425,true,746
+952,"Skunk, western spotted",main,3791,true,555
+953,Asian false vampire bat,beach,2182,true,329
+954,"Spurfowl, yellow-necked",main,2768,false,558
+955,"Toucan, white-throated",forest,3761,true,830
+956,Kalahari scrub robin,forest,321,true,354
+957,"Bustard, kori",beach,3518,true,693
+958,"Heron, yellow-crowned night",main,328,false,687
+959,Red phalarope,main,1033,true,633
+960,"Eagle, long-crested hawk",beach,2854,true,672
+961,Springbok,beach,4963,false,794
+962,"Vulture, egyptian",main,4489,false,763
+963,"Tinamou, elegant crested",main,3570,false,553
+964,"Wombat, southern hairy-nosed",beach,736,true,235
+965,"Finch, common melba",forest,1279,true,924
+966,Nyala,beach,3825,false,550
+967,Agouti,main,3924,false,100
+968,Bushbuck,forest,1642,true,623
+969,"Waterbuck, common",main,1820,true,821
+970,"Lion, galapagos sea",main,2962,true,683
+971,Magnificent frigate bird,forest,1979,true,19
+972,Margay,beach,3290,false,963
+973,Clark's nutcracker,beach,4484,false,369
+974,"Lizard, blue-tongued",forest,3404,true,626
+975,Yellow-throated sandgrouse,beach,4939,false,887
+976,Eastern box turtle,forest,957,true,943
+977,"Pheasant, ring-necked",forest,3757,false,178
+978,Black-backed magpie,beach,1485,false,704
+979,"Cow, scottish highland",main,2255,true,395
+980,"Civet, common palm",beach,654,true,299
+981,"Brocket, red",forest,1017,true,536
+982,Crowned hawk-eagle,main,86,true,557
+983,Australian magpie,main,186,true,413
+984,"Marmot, hoary",main,649,true,322
+985,"Bandicoot, short-nosed",forest,4064,false,484
+986,White-browed owl,beach,1194,false,320
+987,Scaly-breasted lorikeet,forest,4037,false,672
+988,Woodchuck,main,2321,true,788
+989,"Lechwe, kafue flats",forest,343,false,838
+990,"Dog, bush",forest,1445,false,40
+991,Blue-faced booby,main,2945,true,624
+992,"Cockatoo, slender-billed",main,4294,false,657
+993,Carpet snake,main,904,false,828
+994,"Weaver, sociable",main,3325,true,320
+995,Indian star tortoise,main,1072,true,177
+996,Common goldeneye,beach,1662,true,161
+997,"Goose, spur-winged",beach,410,true,263
+998,Leadbeateri's ground hornbill,forest,2791,true,827
+999,"Zorro, common",forest,2322,false,163
+1000,"Brocket, brown",forest,4824,true,442

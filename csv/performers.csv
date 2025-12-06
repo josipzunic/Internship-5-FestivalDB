@@ -1,0 +1,1001 @@
+PerformerId,Name,Country,Genre,MembersCount,PerformerType,IsActive
+1,Aimée,Democratic Republic of the Congo,pop,1,DJ,false
+2,Maïly,Bangladesh,rap,10,bend,true
+3,Kù,Thailand,punk,1,soloist,false
+4,Mélanie,Philippines,rap,5,bend,false
+5,Magdalène,Indonesia,rap,8,bend,true
+6,Eloïse,Nepal,indie pop,4,bend,false
+7,Anaël,Portugal,rap,6,bend,true
+8,Lyséa,China,punk,9,bend,false
+9,Åke,Ukraine,punk,7,bend,false
+10,Måns,Indonesia,rap,14,bend,true
+11,Mahélie,China,indie pop,9,bend,true
+12,Tán,Japan,pop,8,bend,false
+13,Lyséa,China,rock,6,bend,false
+14,Publicité,France,punk,2,bend,true
+15,Léone,China,rock,5,bend,true
+16,Esbjörn,Spain,jazz,12,bend,true
+17,Valérie,Sweden,rock,15,bend,false
+18,Agnès,China,metal,1,DJ,true
+19,André,Philippines,blues,13,bend,false
+20,Mélodie,Poland,indie pop,7,bend,false
+21,Renée,China,indie pop,3,bend,true
+22,Håkan,United States,blues,1,soloist,true
+23,Geneviève,Indonesia,rock,6,bend,true
+24,Andréanne,Botswana,indie pop,8,bend,false
+25,Åsa,China,blues,7,bend,true
+26,Estée,Indonesia,jazz,10,bend,true
+27,Loïca,China,jazz,5,bend,true
+28,Méthode,Russia,rap,8,bend,true
+29,Marlène,United States,rap,9,bend,true
+30,Frédérique,Peru,rap,4,bend,true
+31,Erwéi,China,rap,12,bend,true
+32,Maëlys,Brazil,arena rock,12,bend,false
+33,Stéphanie,Brazil,punk,7,bend,true
+34,Desirée,Indonesia,rap,10,bend,true
+35,Lén,Finland,jazz,9,bend,false
+36,Yú,Kazakhstan,rap,8,bend,false
+37,Desirée,Ukraine,jazz,4,bend,true
+38,Dà,Finland,rock,14,bend,false
+39,Dà,Mexico,rap,7,bend,true
+40,Bécassine,Poland,rap,9,bend,false
+41,Aimée,China,jazz,1,DJ,true
+42,Lorène,China,arena rock,15,bend,true
+43,Hélèna,China,rap,10,bend,false
+44,Sòng,Poland,punk,5,bend,true
+45,Kuí,Tanzania,pop,2,bend,true
+46,Cécilia,Canada,metal,9,bend,true
+47,Stévina,China,pop,5,bend,false
+48,Annotée,Armenia,indie pop,12,bend,false
+49,Magdalène,France,arena rock,9,bend,true
+50,Maëlle,China,pop,13,bend,false
+51,Mélia,Colombia,indie pop,12,bend,true
+52,Joséphine,Mauritius,rock,3,bend,false
+53,Illustrée,Jordan,rock,12,bend,true
+54,Valérie,Canada,rock,4,bend,false
+55,Laïla,Kosovo,jazz,12,bend,true
+56,Ruò,Palestinian Territory,arena rock,14,bend,true
+57,Nadège,Argentina,rock,4,bend,true
+58,Annotée,Indonesia,blues,13,bend,false
+59,Méline,Venezuela,arena rock,2,bend,false
+60,Eléa,Indonesia,pop,4,bend,true
+61,Andrée,Philippines,rap,3,bend,true
+62,Rachèle,United States,rock,8,bend,false
+63,Maëlyss,Angola,metal,13,bend,false
+64,Noëlla,France,rap,8,bend,false
+65,Frédérique,Bolivia,pop,14,bend,false
+66,Pélagie,Afghanistan,arena rock,6,bend,true
+67,Naëlle,China,pop,6,bend,true
+68,Cinéma,China,jazz,1,soloist,false
+69,Maïwenn,China,indie pop,13,bend,false
+70,Nadège,Indonesia,metal,6,bend,true
+71,Athéna,Cambodia,rock,5,bend,false
+72,Tú,Thailand,jazz,9,bend,false
+73,André,Mauritius,rap,15,bend,true
+74,Esbjörn,Philippines,indie pop,4,bend,true
+75,Cinéma,Colombia,blues,2,bend,false
+76,Eliès,Indonesia,pop,1,DJ,true
+77,Mégane,United States,pop,1,soloist,false
+78,Mylène,Indonesia,metal,6,bend,false
+79,Annotés,Indonesia,rap,7,bend,false
+80,Séverine,Morocco,jazz,9,bend,true
+81,Noëlla,France,metal,14,bend,false
+82,Maëlle,Costa Rica,rock,5,bend,true
+83,Pò,Argentina,rock,7,bend,false
+84,Eléonore,Philippines,punk,6,bend,false
+85,Eléa,Indonesia,rock,4,bend,true
+86,Dù,Indonesia,pop,10,bend,false
+87,Styrbjörn,Sweden,arena rock,12,bend,false
+88,Daphnée,China,metal,14,bend,true
+89,Aloïs,Colombia,metal,2,bend,true
+90,Kallisté,China,blues,1,soloist,true
+91,Lorène,Greece,jazz,14,bend,true
+92,Rachèle,Czech Republic,metal,5,bend,false
+93,Laïla,Peru,blues,4,bend,true
+94,Salomé,Thailand,punk,14,bend,true
+95,Lài,Philippines,punk,7,bend,true
+96,Yè,China,pop,1,DJ,true
+97,Marylène,Ghana,pop,14,bend,true
+98,Mélissandre,China,jazz,3,bend,true
+99,Léone,Nigeria,rock,13,bend,false
+100,Clémence,Russia,metal,8,bend,true
+101,Tán,China,arena rock,14,bend,false
+102,Kù,Thailand,jazz,1,DJ,false
+103,Táng,Indonesia,punk,14,bend,true
+104,Vérane,Philippines,jazz,11,bend,false
+105,Agnès,Switzerland,arena rock,1,soloist,false
+106,Yóu,Philippines,blues,3,bend,true
+107,Kù,Indonesia,metal,1,soloist,false
+108,Andréa,Japan,rap,10,bend,true
+109,Måns,Indonesia,punk,5,bend,false
+110,Méthode,Burkina Faso,rap,11,bend,true
+111,Uò,Ethiopia,rap,2,bend,true
+112,Alizée,China,punk,8,bend,false
+113,Andrée,China,jazz,13,bend,false
+114,Nélie,Japan,rap,4,bend,true
+115,Salomé,China,blues,11,bend,false
+116,Lorène,Bulgaria,rock,2,bend,false
+117,Angèle,Ukraine,rap,14,bend,true
+118,Eloïse,Bosnia and Herzegovina,pop,11,bend,false
+119,Marylène,Ukraine,indie pop,13,bend,false
+120,Méng,Philippines,pop,11,bend,false
+121,Illustrée,China,punk,8,bend,false
+122,Loïs,Russia,jazz,15,bend,false
+123,Gaétane,Philippines,metal,2,bend,false
+124,Josée,Poland,blues,14,bend,false
+125,Stéphanie,China,jazz,11,bend,true
+126,Uò,Netherlands,rap,4,bend,false
+127,Kallisté,Ethiopia,rap,15,bend,false
+128,Dà,China,jazz,5,bend,true
+129,Maëline,Peru,jazz,6,bend,false
+130,Nélie,Sweden,jazz,5,bend,false
+131,Lauréna,Morocco,jazz,12,bend,true
+132,Méthode,China,pop,10,bend,true
+133,Michèle,United States,rap,10,bend,true
+134,Kévina,Mozambique,jazz,3,bend,false
+135,Märta,Papua New Guinea,metal,15,bend,false
+136,Maëlle,China,indie pop,9,bend,true
+137,Stévina,Pakistan,arena rock,3,bend,true
+138,Gisèle,Colombia,metal,10,bend,false
+139,Miléna,Canada,blues,15,bend,true
+140,Måns,Ukraine,jazz,11,bend,false
+141,Torbjörn,Poland,arena rock,7,bend,true
+142,Simplifiés,China,rock,4,bend,false
+143,Gaétane,China,punk,12,bend,false
+144,Marie-françoise,Brazil,pop,4,bend,true
+145,Audréanne,Argentina,metal,8,bend,true
+146,Anaël,China,indie pop,7,bend,false
+147,Magdalène,Peru,rock,1,DJ,true
+148,Estée,China,jazz,2,bend,true
+149,Aloïs,China,indie pop,14,bend,true
+150,Maïly,Sweden,metal,12,bend,false
+151,Méng,Indonesia,punk,14,bend,true
+152,Örjan,Thailand,rap,2,bend,false
+153,Håkan,Sweden,jazz,11,bend,false
+154,Bérengère,Sweden,metal,9,bend,false
+155,Maëlann,Philippines,metal,11,bend,true
+156,Rachèle,Norway,pop,13,bend,true
+157,Maéna,Afghanistan,rap,15,bend,true
+158,Rébecca,Indonesia,metal,6,bend,true
+159,Eléa,Indonesia,pop,13,bend,false
+160,Rébecca,Indonesia,blues,7,bend,false
+161,Uò,Honduras,rock,12,bend,false
+162,Bérangère,Philippines,jazz,13,bend,false
+163,Styrbjörn,Colombia,jazz,6,bend,false
+164,Mén,Nicaragua,arena rock,1,soloist,true
+165,Lauréna,Czech Republic,pop,4,bend,true
+166,Illustrée,France,arena rock,7,bend,false
+167,Maïly,Ukraine,arena rock,7,bend,true
+168,Kuí,Bulgaria,pop,9,bend,true
+169,Lorène,China,jazz,1,DJ,false
+170,Pélagie,Mongolia,indie pop,2,bend,false
+171,Angèle,Armenia,jazz,4,bend,false
+172,Océane,China,metal,3,bend,true
+173,Océane,Costa Rica,pop,14,bend,true
+174,Josée,Kiribati,jazz,14,bend,true
+175,Estée,Brazil,punk,10,bend,false
+176,Zhì,China,rock,15,bend,false
+177,Ruì,Tanzania,jazz,11,bend,true
+178,Simplifiés,Brazil,arena rock,8,bend,true
+179,Gaëlle,Moldova,jazz,15,bend,false
+180,Tú,Honduras,arena rock,14,bend,true
+181,Méline,Afghanistan,indie pop,14,bend,true
+182,Faîtes,Greece,jazz,4,bend,true
+183,Loïs,Indonesia,blues,11,bend,false
+184,Gwenaëlle,China,jazz,6,bend,true
+185,Françoise,South Africa,jazz,4,bend,true
+186,Yáo,Mongolia,blues,6,bend,false
+187,Märta,China,rock,8,bend,true
+188,Stéphanie,South Africa,arena rock,5,bend,false
+189,Océane,China,punk,13,bend,false
+190,Adélaïde,Indonesia,indie pop,12,bend,true
+191,Loïca,Russia,rock,4,bend,true
+192,Hélèna,Czech Republic,pop,12,bend,false
+193,Salomé,Indonesia,metal,8,bend,false
+194,Célia,China,pop,1,soloist,false
+195,Publicité,Russia,blues,1,DJ,true
+196,Lucrèce,Russia,jazz,12,bend,true
+197,Hélèna,Kazakhstan,punk,10,bend,true
+198,Estève,United States,rap,1,soloist,true
+199,Lèi,Somalia,rap,1,DJ,true
+200,Mélys,Japan,punk,7,bend,false
+201,Publicité,Croatia,indie pop,10,bend,false
+202,Lorène,Japan,rap,15,bend,false
+203,Athéna,Argentina,blues,6,bend,false
+204,Maëlann,Indonesia,indie pop,8,bend,true
+205,Cécile,Uruguay,indie pop,6,bend,false
+206,Maëlann,China,jazz,4,bend,false
+207,Félicie,Indonesia,blues,5,bend,true
+208,Eloïse,Indonesia,pop,8,bend,false
+209,Loïca,China,blues,6,bend,true
+210,Åsa,China,rock,9,bend,true
+211,Adèle,France,punk,15,bend,false
+212,Vénus,Pakistan,blues,13,bend,false
+213,Maïwenn,Japan,punk,15,bend,false
+214,Kù,China,jazz,9,bend,false
+215,Anaël,Finland,rock,12,bend,false
+216,Uò,Portugal,punk,15,bend,true
+217,Méryl,Jordan,pop,10,bend,true
+218,Laïla,Philippines,arena rock,9,bend,true
+219,Lorène,China,pop,15,bend,true
+220,Kallisté,Lithuania,metal,1,soloist,true
+221,Solène,Georgia,pop,6,bend,false
+222,Séréna,Brazil,jazz,4,bend,true
+223,Maëly,United States,jazz,15,bend,false
+224,Séverine,Netherlands,jazz,3,bend,false
+225,Uò,Portugal,metal,3,bend,false
+226,Léane,Japan,rock,14,bend,true
+227,Anaëlle,Poland,punk,15,bend,false
+228,Angèle,Indonesia,arena rock,3,bend,false
+229,Almérinda,Malaysia,jazz,1,DJ,false
+230,Kuí,Brazil,rap,13,bend,true
+231,Maïlis,Thailand,metal,4,bend,false
+232,Desirée,Russia,rap,9,bend,true
+233,Marie-ève,Iran,rap,15,bend,false
+234,Séréna,Thailand,blues,4,bend,true
+235,Léandre,Peru,rock,10,bend,true
+236,Noémie,Peru,metal,10,bend,true
+237,Erwéi,France,arena rock,13,bend,false
+238,Stéphanie,China,arena rock,14,bend,true
+239,Aloïs,Cuba,indie pop,2,bend,false
+240,Hélèna,Indonesia,rap,8,bend,false
+241,Géraldine,China,indie pop,15,bend,false
+242,Géraldine,China,arena rock,4,bend,true
+243,Maïté,Peru,punk,10,bend,false
+244,Ruì,China,metal,12,bend,false
+245,Yóu,Belarus,rap,15,bend,true
+246,Styrbjörn,China,rap,6,bend,true
+247,Céline,Indonesia,indie pop,7,bend,false
+248,Gaëlle,Poland,jazz,14,bend,true
+249,Miléna,China,jazz,2,bend,true
+250,André,Philippines,jazz,6,bend,true
+251,Aimée,Portugal,rock,12,bend,false
+252,Bérengère,Sweden,rock,11,bend,false
+253,Simplifiés,Russia,rock,14,bend,false
+254,Almérinda,Indonesia,arena rock,10,bend,true
+255,Méng,Palau,indie pop,9,bend,false
+256,Anaëlle,China,blues,14,bend,false
+257,Maëlyss,Yemen,jazz,9,bend,true
+258,Estève,Portugal,blues,14,bend,false
+259,Eloïse,China,jazz,1,DJ,false
+260,Clémentine,China,arena rock,2,bend,true
+261,Bérengère,Poland,metal,14,bend,true
+262,Garçon,Myanmar,pop,3,bend,false
+263,Réjane,Slovenia,punk,2,bend,false
+264,Stéphanie,Chile,rock,14,bend,true
+265,Lén,China,rock,4,bend,true
+266,Angèle,Indonesia,arena rock,2,bend,false
+267,Pélagie,United States,pop,14,bend,false
+268,Régine,Macedonia,blues,7,bend,true
+269,Gwenaëlle,South Africa,blues,9,bend,true
+270,Gaétane,China,rock,7,bend,true
+271,Maëlyss,Canada,metal,8,bend,true
+272,Kallisté,Thailand,metal,2,bend,false
+273,Estève,Venezuela,rock,2,bend,true
+274,Adélie,Tanzania,punk,8,bend,true
+275,Naéva,Philippines,jazz,15,bend,false
+276,Kuí,China,rap,10,bend,false
+277,Lucrèce,Benin,rock,5,bend,true
+278,Torbjörn,Philippines,punk,14,bend,false
+279,Vénus,China,blues,9,bend,true
+280,Esbjörn,Mexico,rock,7,bend,true
+281,Daphnée,China,blues,1,DJ,true
+282,Laurène,China,rock,2,bend,false
+283,Noëlla,Indonesia,metal,11,bend,false
+284,Estève,Vietnam,rap,10,bend,false
+285,Garçon,Indonesia,pop,3,bend,true
+286,Mà,Indonesia,indie pop,4,bend,false
+287,Léa,Japan,metal,8,bend,true
+288,Lauréna,Canada,arena rock,8,bend,false
+289,Stévina,Poland,pop,11,bend,true
+290,Thérèse,Poland,indie pop,2,bend,true
+291,Táng,Russia,metal,12,bend,true
+292,Nélie,China,jazz,8,bend,true
+293,Léone,Sweden,metal,15,bend,true
+294,Noémie,Philippines,indie pop,3,bend,true
+295,Angèle,Sweden,rock,11,bend,true
+296,Gösta,Japan,indie pop,10,bend,false
+297,Personnalisée,Indonesia,arena rock,15,bend,true
+298,Médiamass,Bulgaria,rap,7,bend,true
+299,Styrbjörn,Indonesia,metal,13,bend,true
+300,Annotée,Angola,indie pop,8,bend,false
+301,Maïly,Estonia,pop,7,bend,false
+302,Véronique,Portugal,pop,3,bend,true
+303,Maïlis,Greece,rock,1,DJ,false
+304,Åslög,Russia,blues,13,bend,false
+305,Fèi,China,jazz,10,bend,true
+306,Hélène,Philippines,punk,7,bend,false
+307,Zhì,Indonesia,blues,11,bend,true
+308,Clémence,Mayotte,pop,12,bend,false
+309,Léane,Brazil,pop,10,bend,false
+310,Rachèle,China,blues,14,bend,false
+311,Alizée,Egypt,indie pop,13,bend,true
+312,Léandre,China,pop,7,bend,false
+313,Tán,Finland,indie pop,7,bend,true
+314,Simplifiés,United States,blues,8,bend,true
+315,Jú,Peru,rock,2,bend,false
+316,Célestine,Somalia,indie pop,4,bend,true
+317,Gaétane,Trinidad and Tobago,rock,5,bend,true
+318,Yú,Peru,rap,3,bend,false
+319,Geneviève,Nigeria,blues,14,bend,false
+320,Marie-hélène,Indonesia,rock,2,bend,true
+321,Pò,Indonesia,rap,3,bend,false
+322,Mélia,Dominican Republic,rap,14,bend,false
+323,Lài,France,jazz,13,bend,false
+324,Märta,China,punk,8,bend,true
+325,Frédérique,Russia,arena rock,14,bend,false
+326,Gwenaëlle,Afghanistan,indie pop,6,bend,true
+327,Håkan,China,arena rock,7,bend,false
+328,Cinéma,Indonesia,metal,15,bend,false
+329,Thérèse,France,metal,2,bend,true
+330,Loïc,China,pop,1,DJ,true
+331,Eléa,Indonesia,jazz,2,bend,false
+332,Sòng,China,indie pop,14,bend,true
+333,Amélie,China,jazz,7,bend,false
+334,Léana,Portugal,rap,1,DJ,true
+335,Lorène,Macedonia,indie pop,3,bend,true
+336,Annotés,Indonesia,indie pop,7,bend,true
+337,Mégane,Serbia,metal,8,bend,false
+338,Aimée,Indonesia,indie pop,11,bend,false
+339,Yénora,Philippines,pop,12,bend,false
+340,Médiamass,China,metal,4,bend,false
+341,Stévina,Ivory Coast,jazz,4,bend,false
+342,Sélène,Portugal,punk,7,bend,true
+343,Garçon,Mexico,rock,4,bend,true
+344,Maëlann,Indonesia,rap,8,bend,false
+345,Thérèsa,Iran,arena rock,11,bend,false
+346,Frédérique,Indonesia,pop,11,bend,false
+347,Mélina,Brazil,pop,6,bend,false
+348,Anaël,Dominican Republic,metal,2,bend,true
+349,Märta,China,pop,10,bend,true
+350,Gwenaëlle,Pakistan,rock,6,bend,true
+351,Renée,Morocco,punk,8,bend,false
+352,Maï,Russia,metal,5,bend,false
+353,Mylène,China,jazz,11,bend,true
+354,Séréna,Iran,pop,6,bend,false
+355,Anaïs,Madagascar,rap,12,bend,false
+356,Tú,Indonesia,arena rock,3,bend,true
+357,Desirée,Indonesia,arena rock,11,bend,false
+358,Gérald,Russia,indie pop,14,bend,true
+359,Géraldine,Japan,rock,6,bend,false
+360,Marlène,Dominican Republic,rap,10,bend,false
+361,Marie-françoise,China,indie pop,7,bend,false
+362,Kuí,Portugal,pop,1,DJ,true
+363,Liè,North Korea,jazz,4,bend,true
+364,Bérangère,Zimbabwe,metal,14,bend,false
+365,Pélagie,Philippines,arena rock,9,bend,false
+366,Östen,Greece,punk,2,bend,false
+367,Åslög,Philippines,pop,5,bend,true
+368,Cinéma,Serbia,indie pop,6,bend,false
+369,Jú,China,punk,5,bend,false
+370,Marie-ève,Peru,arena rock,14,bend,true
+371,Félicie,Argentina,rap,7,bend,true
+372,Jú,Philippines,rock,4,bend,false
+373,Publicité,Jordan,rap,6,bend,true
+374,Mahélie,Kazakhstan,indie pop,2,bend,false
+375,Léana,Philippines,indie pop,5,bend,true
+376,Annotés,Yemen,pop,2,bend,true
+377,Åsa,Tanzania,rock,3,bend,true
+378,Gaïa,Russia,punk,7,bend,false
+379,Réservés,Portugal,pop,13,bend,true
+380,Danièle,China,arena rock,4,bend,false
+381,Angélique,Poland,indie pop,15,bend,true
+382,Audréanne,Ireland,pop,15,bend,false
+383,Maïwenn,Gambia,arena rock,10,bend,true
+384,Célestine,Czech Republic,arena rock,15,bend,true
+385,Anaël,Pakistan,arena rock,14,bend,true
+386,Maëlla,Sweden,rap,7,bend,false
+387,Tán,Libya,indie pop,14,bend,true
+388,Aloïs,China,rock,9,bend,true
+389,Angèle,Nigeria,punk,7,bend,true
+390,Marylène,Macedonia,indie pop,2,bend,true
+391,Esbjörn,Afghanistan,punk,4,bend,false
+392,Ophélie,China,jazz,6,bend,true
+393,Mylène,Madagascar,blues,5,bend,true
+394,Ráo,Canada,blues,6,bend,true
+395,Naéva,China,jazz,7,bend,false
+396,Bérengère,Poland,rap,10,bend,true
+397,Céline,China,arena rock,4,bend,false
+398,Alizée,China,rock,15,bend,true
+399,Kuí,China,jazz,5,bend,true
+400,Börje,Guatemala,jazz,4,bend,false
+401,Séréna,Greece,indie pop,9,bend,true
+402,Torbjörn,China,rock,1,soloist,true
+403,Océanne,Philippines,blues,13,bend,true
+404,Åke,China,arena rock,15,bend,true
+405,Réservés,El Salvador,rap,11,bend,true
+406,Naëlle,China,metal,4,bend,true
+407,Åslög,China,blues,4,bend,false
+408,Véronique,Peru,metal,10,bend,false
+409,Jú,China,arena rock,2,bend,true
+410,Léonore,France,pop,1,DJ,false
+411,Annotée,China,jazz,7,bend,false
+412,Marie-ève,Thailand,rap,7,bend,false
+413,Bérengère,Japan,pop,2,bend,false
+414,Françoise,Poland,blues,11,bend,false
+415,Marie-josée,Brazil,indie pop,1,DJ,true
+416,Maéna,Iraq,jazz,14,bend,false
+417,Publicité,Uganda,jazz,3,bend,false
+418,Vénus,Indonesia,pop,13,bend,false
+419,Estée,Greece,punk,13,bend,true
+420,Mahélie,China,jazz,13,bend,true
+421,Laurélie,Argentina,punk,2,bend,false
+422,Bécassine,Brazil,arena rock,6,bend,false
+423,Léone,Ukraine,rock,10,bend,true
+424,Angèle,Ethiopia,blues,12,bend,true
+425,Kévina,Philippines,blues,4,bend,true
+426,Méthode,China,rock,9,bend,true
+427,Mà,Czech Republic,rap,6,bend,false
+428,Maëlla,United States,blues,5,bend,false
+429,Mylène,Peru,pop,4,bend,true
+430,Maïlys,Poland,arena rock,12,bend,true
+431,Frédérique,China,indie pop,1,DJ,false
+432,Maïlys,Indonesia,blues,10,bend,false
+433,Dù,Yemen,punk,7,bend,false
+434,Mahélie,Brazil,jazz,12,bend,false
+435,Estée,Guatemala,blues,10,bend,false
+436,Yáo,China,blues,2,bend,true
+437,Marie-ève,Venezuela,jazz,9,bend,false
+438,Méng,Russia,rock,10,bend,true
+439,Mårten,Nigeria,rap,10,bend,false
+440,Laïla,Ivory Coast,rock,1,DJ,false
+441,Véronique,Colombia,pop,2,bend,false
+442,Nélie,Poland,rock,1,soloist,true
+443,Dorothée,Albania,rock,12,bend,true
+444,Danièle,Venezuela,arena rock,10,bend,false
+445,Ráo,Japan,pop,8,bend,false
+446,Célia,Russia,metal,1,DJ,true
+447,Anaëlle,China,pop,12,bend,true
+448,Méthode,Greece,rock,11,bend,true
+449,Clélia,Poland,rap,3,bend,true
+450,Bénédicte,Philippines,indie pop,7,bend,true
+451,Maéna,China,metal,8,bend,true
+452,Cloé,Sweden,indie pop,6,bend,true
+453,Aurélie,Ukraine,metal,8,bend,true
+454,Clélia,Indonesia,metal,10,bend,false
+455,Naëlle,Brazil,arena rock,8,bend,true
+456,Liè,Brazil,blues,4,bend,true
+457,Océanne,French Guiana,arena rock,8,bend,true
+458,Intéressant,Sweden,blues,10,bend,true
+459,Personnalisée,Indonesia,blues,1,DJ,true
+460,Eléa,Indonesia,pop,8,bend,true
+461,Noémie,France,metal,13,bend,false
+462,Lauréna,Portugal,jazz,14,bend,true
+463,Séréna,Palestinian Territory,pop,8,bend,true
+464,Loïc,Saint Lucia,jazz,7,bend,false
+465,Lucrèce,Peru,pop,1,DJ,false
+466,Yè,Mongolia,pop,13,bend,false
+467,Estève,Indonesia,punk,10,bend,false
+468,Personnalisée,Norway,blues,11,bend,false
+469,Naëlle,China,rap,4,bend,true
+470,Réservés,Poland,rap,6,bend,true
+471,Maëlyss,Indonesia,rap,4,bend,true
+472,Esbjörn,China,arena rock,6,bend,false
+473,Åslög,Indonesia,punk,15,bend,true
+474,Marie-josée,Georgia,rock,14,bend,true
+475,Hélène,Ukraine,pop,3,bend,true
+476,Zhì,Finland,arena rock,9,bend,false
+477,Méghane,Russia,pop,10,bend,false
+478,Gaëlle,China,blues,3,bend,false
+479,Ophélie,Russia,blues,8,bend,true
+480,Béatrice,France,pop,6,bend,false
+481,Cléopatre,Ukraine,metal,9,bend,true
+482,Marylène,United States,indie pop,12,bend,false
+483,Måns,Philippines,jazz,9,bend,true
+484,Dà,Nigeria,metal,1,soloist,false
+485,Audréanne,Brazil,rap,6,bend,true
+486,Josée,China,punk,14,bend,true
+487,Léonore,Indonesia,metal,6,bend,true
+488,Gérald,Russia,jazz,1,soloist,true
+489,Mélina,Russia,rock,10,bend,false
+490,Noëlla,China,arena rock,2,bend,true
+491,Lyséa,Indonesia,jazz,8,bend,false
+492,Marie-thérèse,Bolivia,rock,9,bend,false
+493,Lyséa,Malta,indie pop,7,bend,true
+494,Angèle,Spain,punk,4,bend,false
+495,Mén,Philippines,blues,6,bend,false
+496,Hélène,South Africa,blues,14,bend,true
+497,Régine,Russia,jazz,15,bend,true
+498,Amélie,Cuba,punk,13,bend,true
+499,Laurène,Czech Republic,punk,7,bend,true
+500,Célestine,Haiti,rock,9,bend,false
+501,Marie-ève,China,blues,10,bend,false
+502,Anaé,Brazil,indie pop,9,bend,false
+503,Yóu,Malaysia,jazz,8,bend,false
+504,Bénédicte,Cuba,rock,14,bend,false
+505,Ráo,Mexico,indie pop,10,bend,false
+506,Lyséa,China,rock,9,bend,false
+507,Tán,China,metal,14,bend,true
+508,Yú,Russia,indie pop,10,bend,false
+509,Célestine,Poland,pop,8,bend,true
+510,Thérèse,Ukraine,indie pop,14,bend,false
+511,Réservés,China,jazz,15,bend,false
+512,Mélinda,Dominica,arena rock,9,bend,true
+513,Maïté,Portugal,jazz,5,bend,true
+514,Aí,Serbia,rock,9,bend,true
+515,Mélinda,Indonesia,punk,2,bend,false
+516,Maïté,Paraguay,pop,5,bend,true
+517,Célestine,Ivory Coast,metal,15,bend,false
+518,Françoise,Finland,pop,11,bend,false
+519,Amélie,China,pop,4,bend,false
+520,Françoise,China,rap,1,soloist,false
+521,Noémie,Myanmar,arena rock,14,bend,true
+522,Léana,China,rock,5,bend,true
+523,Esbjörn,Papua New Guinea,rap,12,bend,true
+524,Illustrée,Tanzania,rap,13,bend,false
+525,Léa,Indonesia,rock,2,bend,true
+526,Gaétane,Bulgaria,rap,14,bend,true
+527,Kuí,Russia,jazz,5,bend,false
+528,Céline,Sweden,blues,8,bend,false
+529,Mélissandre,Russia,jazz,12,bend,false
+530,Åsa,Guinea,punk,8,bend,false
+531,Clémence,Russia,metal,5,bend,true
+532,Océanne,Colombia,pop,11,bend,true
+533,Léonie,China,pop,15,bend,true
+534,Andréanne,Russia,rock,2,bend,true
+535,Frédérique,Greece,blues,1,soloist,false
+536,Mégane,China,punk,3,bend,false
+537,Annotée,China,jazz,15,bend,false
+538,Yénora,Luxembourg,jazz,9,bend,false
+539,Görel,South Korea,jazz,10,bend,true
+540,Håkan,Indonesia,punk,1,soloist,false
+541,Mà,Japan,punk,8,bend,false
+542,Maïlis,China,metal,14,bend,true
+543,Mà,France,indie pop,3,bend,true
+544,Kù,China,jazz,12,bend,false
+545,Publicité,Philippines,rap,1,soloist,true
+546,Eléonore,Norway,blues,8,bend,false
+547,Maïlis,Indonesia,metal,5,bend,false
+548,Irène,Indonesia,indie pop,10,bend,true
+549,Laurène,China,metal,15,bend,false
+550,Régine,Mongolia,indie pop,13,bend,false
+551,Méng,Brazil,pop,4,bend,true
+552,Stéphanie,Indonesia,indie pop,13,bend,true
+553,Yóu,Portugal,metal,5,bend,false
+554,Méline,Czech Republic,jazz,9,bend,true
+555,Océane,Uganda,arena rock,2,bend,true
+556,Cécile,Portugal,jazz,1,DJ,true
+557,Görel,Indonesia,metal,10,bend,true
+558,Laïla,Indonesia,punk,1,soloist,false
+559,Börje,Sweden,rap,5,bend,false
+560,Yè,Kosovo,pop,7,bend,false
+561,Yú,Democratic Republic of the Congo,jazz,12,bend,false
+562,Régine,Vietnam,metal,11,bend,false
+563,Bénédicte,China,blues,10,bend,true
+564,Angélique,Indonesia,metal,3,bend,false
+565,Almérinda,Spain,arena rock,10,bend,false
+566,Lorène,Ukraine,metal,10,bend,false
+567,Joséphine,Panama,jazz,7,bend,true
+568,Méline,Russia,indie pop,7,bend,false
+569,Frédérique,Indonesia,arena rock,10,bend,true
+570,Cinéma,Afghanistan,indie pop,8,bend,false
+571,Liè,Indonesia,jazz,13,bend,true
+572,Lén,China,arena rock,4,bend,false
+573,Crééz,Canada,punk,2,bend,false
+574,Bénédicte,Philippines,indie pop,4,bend,true
+575,Bérangère,China,jazz,3,bend,true
+576,Pål,Indonesia,rap,5,bend,true
+577,Dù,Portugal,punk,2,bend,true
+578,Maëlle,Croatia,rap,5,bend,true
+579,Åslög,New Zealand,pop,8,bend,false
+580,Pò,France,blues,7,bend,false
+581,Maïwenn,Vietnam,rock,12,bend,false
+582,Anaïs,Mexico,rock,6,bend,false
+583,Kévina,Egypt,blues,1,DJ,false
+584,Lorène,Russia,metal,12,bend,false
+585,Örjan,Finland,jazz,7,bend,true
+586,Mélina,Tunisia,indie pop,13,bend,false
+587,Yè,China,arena rock,12,bend,false
+588,Mégane,Comoros,blues,5,bend,false
+589,Adélaïde,Poland,arena rock,14,bend,true
+590,Michèle,Estonia,punk,14,bend,false
+591,Almérinda,Brazil,blues,7,bend,true
+592,Frédérique,Greece,jazz,4,bend,false
+593,Aimée,Canada,metal,11,bend,false
+594,Ruì,Thailand,metal,1,DJ,false
+595,Mà,Thailand,indie pop,11,bend,false
+596,Cunégonde,China,metal,10,bend,true
+597,Véronique,China,rap,8,bend,false
+598,Frédérique,China,indie pop,9,bend,true
+599,Kallisté,China,arena rock,4,bend,true
+600,Pénélope,Austria,punk,4,bend,true
+601,Gwenaëlle,China,jazz,8,bend,true
+602,Irène,China,metal,1,DJ,false
+603,Athéna,Guinea,arena rock,3,bend,true
+604,Miléna,Canada,indie pop,5,bend,true
+605,Irène,Indonesia,jazz,10,bend,false
+606,Börje,Sweden,pop,3,bend,true
+607,Östen,United States,jazz,15,bend,false
+608,Åslög,China,jazz,2,bend,false
+609,Cécile,Indonesia,punk,5,bend,false
+610,Loïc,China,indie pop,14,bend,false
+611,Anaé,Indonesia,punk,2,bend,false
+612,Naëlle,France,punk,12,bend,false
+613,Yóu,Japan,jazz,4,bend,false
+614,Cinéma,Indonesia,metal,11,bend,true
+615,Maï,Colombia,rap,7,bend,false
+616,Estée,Philippines,indie pop,10,bend,false
+617,Solène,France,pop,3,bend,false
+618,Mårten,Czech Republic,punk,13,bend,true
+619,Séverine,Indonesia,jazz,9,bend,false
+620,Marie-josée,China,arena rock,15,bend,false
+621,Méghane,China,pop,7,bend,true
+622,Zoé,Yemen,jazz,5,bend,true
+623,Léandre,Japan,blues,12,bend,true
+624,Sélène,China,arena rock,15,bend,true
+625,Lén,Ecuador,blues,5,bend,true
+626,Fèi,Argentina,jazz,11,bend,true
+627,Mégane,Russia,rock,3,bend,true
+628,Léana,Brazil,rock,8,bend,false
+629,Cléa,China,blues,11,bend,false
+630,Maïlys,China,jazz,11,bend,false
+631,Hélène,Chile,metal,13,bend,false
+632,Loïs,Guam,indie pop,12,bend,true
+633,Méng,Poland,punk,9,bend,false
+634,Gösta,Poland,jazz,9,bend,true
+635,Nadège,France,blues,6,bend,true
+636,Dà,Ukraine,rock,4,bend,true
+637,Mélia,Greece,indie pop,10,bend,true
+638,Gösta,China,metal,2,bend,false
+639,Béatrice,Portugal,punk,1,soloist,false
+640,Danièle,Portugal,jazz,4,bend,false
+641,Måns,China,metal,10,bend,false
+642,Marie-françoise,Palestinian Territory,indie pop,2,bend,true
+643,Annotés,Morocco,indie pop,13,bend,false
+644,Kù,Mauritius,metal,15,bend,true
+645,Pål,Russia,blues,5,bend,false
+646,Aimée,North Korea,metal,14,bend,false
+647,Françoise,United States,rap,2,bend,false
+648,Maëly,China,jazz,12,bend,true
+649,Torbjörn,Honduras,pop,1,soloist,false
+650,Pò,Democratic Republic of the Congo,arena rock,13,bend,false
+651,Rébecca,Netherlands,blues,9,bend,false
+652,Håkan,China,metal,11,bend,true
+653,Marie-thérèse,Sri Lanka,arena rock,9,bend,true
+654,Mà,Indonesia,rock,1,soloist,false
+655,Nuó,Belarus,arena rock,5,bend,true
+656,Marie-josée,Canada,blues,10,bend,false
+657,Laurélie,Jamaica,indie pop,5,bend,false
+658,Kévina,China,rock,7,bend,false
+659,Renée,Latvia,jazz,3,bend,false
+660,Lorène,Indonesia,metal,9,bend,false
+661,Réservés,Portugal,rap,14,bend,false
+662,André,China,indie pop,9,bend,false
+663,Josée,China,pop,1,soloist,true
+664,Maéna,Zimbabwe,jazz,9,bend,false
+665,Marie-ève,Brazil,jazz,4,bend,true
+666,Sòng,Finland,jazz,12,bend,false
+667,Ophélie,Tanzania,blues,1,soloist,true
+668,Salomé,Brazil,rock,10,bend,true
+669,Bérengère,Brazil,jazz,8,bend,false
+670,Gaëlle,Japan,metal,4,bend,true
+671,Bécassine,China,arena rock,4,bend,true
+672,Mårten,Indonesia,arena rock,14,bend,false
+673,Maïté,China,blues,2,bend,true
+674,Bérengère,China,metal,4,bend,true
+675,Andrée,Ukraine,rock,10,bend,true
+676,Maëline,Peru,arena rock,12,bend,false
+677,Nuó,South Africa,rap,3,bend,false
+678,Anaé,Brazil,indie pop,10,bend,true
+679,Marie-josée,New Zealand,metal,7,bend,false
+680,Eugénie,Kazakhstan,pop,4,bend,true
+681,Andréa,China,rock,8,bend,false
+682,Aurélie,Poland,indie pop,2,bend,false
+683,Ráo,Nigeria,jazz,4,bend,false
+684,Réservés,Argentina,arena rock,7,bend,true
+685,Marie-hélène,Ukraine,arena rock,13,bend,false
+686,Håkan,Norway,rock,12,bend,true
+687,Anaëlle,Philippines,arena rock,6,bend,false
+688,Maïlis,China,pop,13,bend,true
+689,Françoise,France,punk,3,bend,true
+690,Salomé,Indonesia,rock,12,bend,false
+691,Méghane,Indonesia,rap,1,soloist,false
+692,Mélina,China,rap,15,bend,false
+693,Béatrice,Syria,rap,15,bend,false
+694,Görel,United States,blues,7,bend,false
+695,Marie-françoise,South Africa,metal,12,bend,true
+696,Gösta,Indonesia,punk,1,soloist,true
+697,Gaïa,Russia,metal,5,bend,true
+698,Aurélie,Philippines,rap,1,soloist,true
+699,Eugénie,Argentina,pop,2,bend,true
+700,Maëlyss,Indonesia,punk,12,bend,true
+701,Athéna,Indonesia,punk,5,bend,false
+702,Judicaël,Brazil,rock,2,bend,true
+703,Maïlis,South Africa,jazz,7,bend,false
+704,Marylène,Indonesia,punk,2,bend,false
+705,Méthode,Poland,rock,13,bend,true
+706,Béatrice,Norway,blues,11,bend,true
+707,Eliès,Sweden,blues,6,bend,false
+708,Réjane,Portugal,metal,11,bend,false
+709,Marie-françoise,Indonesia,rap,15,bend,false
+710,Célestine,Mongolia,jazz,12,bend,false
+711,Pénélope,China,jazz,2,bend,true
+712,Andréa,Pakistan,arena rock,2,bend,false
+713,Lén,Cambodia,indie pop,4,bend,false
+714,Léonie,United States,punk,7,bend,false
+715,Marlène,Philippines,punk,5,bend,true
+716,Mélodie,Bahamas,blues,2,bend,false
+717,Pål,Ireland,blues,15,bend,true
+718,Dorothée,China,blues,15,bend,true
+719,Erwéi,Portugal,jazz,2,bend,true
+720,Anaïs,Philippines,jazz,10,bend,false
+721,Simplifiés,Brazil,punk,11,bend,false
+722,Réjane,Philippines,rap,9,bend,false
+723,Béatrice,Mozambique,jazz,8,bend,true
+724,Méthode,Philippines,pop,12,bend,false
+725,Táng,Brazil,rock,9,bend,false
+726,Vérane,China,indie pop,1,soloist,true
+727,Mélina,Portugal,rap,10,bend,false
+728,Agnès,China,punk,14,bend,false
+729,Lorène,China,jazz,5,bend,true
+730,Mylène,Brazil,rap,1,DJ,false
+731,Loïc,China,pop,3,bend,false
+732,Lèi,Portugal,blues,4,bend,false
+733,Amélie,Philippines,rock,2,bend,false
+734,Léone,Yemen,jazz,4,bend,true
+735,Noémie,Indonesia,rap,11,bend,false
+736,Hélène,China,jazz,7,bend,false
+737,Marie-ève,Cuba,metal,7,bend,true
+738,Cléa,China,pop,13,bend,true
+739,Mà,Ukraine,rock,14,bend,false
+740,Mélinda,Sweden,rock,13,bend,false
+741,Åsa,Mali,arena rock,5,bend,false
+742,Stévina,Indonesia,indie pop,11,bend,true
+743,Estée,China,jazz,12,bend,false
+744,Sélène,Cyprus,blues,7,bend,false
+745,Rachèle,Indonesia,pop,4,bend,false
+746,Pål,China,indie pop,10,bend,false
+747,Marie-thérèse,Poland,punk,11,bend,false
+748,Stéphanie,China,jazz,2,bend,true
+749,Gaétane,China,rap,10,bend,false
+750,Håkan,Indonesia,pop,7,bend,true
+751,Pélagie,Indonesia,pop,13,bend,false
+752,Léa,Netherlands,jazz,3,bend,false
+753,Zoé,Georgia,jazz,1,DJ,true
+754,Nélie,Sweden,punk,2,bend,true
+755,Lyséa,China,rap,4,bend,true
+756,Estève,Serbia,metal,4,bend,true
+757,Inès,China,pop,9,bend,true
+758,Célia,Poland,indie pop,1,soloist,true
+759,Cléopatre,Colombia,pop,6,bend,true
+760,Eliès,Mexico,jazz,4,bend,true
+761,Måns,Vietnam,punk,11,bend,true
+762,Léane,Albania,metal,9,bend,false
+763,Yè,Indonesia,rap,2,bend,false
+764,Bécassine,Greece,blues,13,bend,true
+765,Cléa,Indonesia,arena rock,11,bend,false
+766,Eléa,Germany,rap,14,bend,false
+767,Célestine,Thailand,rap,11,bend,false
+768,André,Croatia,jazz,11,bend,true
+769,Mélissandre,Philippines,rap,12,bend,false
+770,Pélagie,Ukraine,rock,6,bend,false
+771,Frédérique,Indonesia,indie pop,3,bend,false
+772,Laïla,China,pop,4,bend,false
+773,Dù,Japan,arena rock,11,bend,true
+774,Håkan,Mexico,jazz,11,bend,false
+775,Åslög,Russia,blues,15,bend,false
+776,Clémence,Egypt,arena rock,1,soloist,false
+777,Torbjörn,Philippines,arena rock,6,bend,false
+778,Loïs,Armenia,punk,11,bend,false
+779,Valérie,China,rock,8,bend,false
+780,Gisèle,Indonesia,blues,15,bend,true
+781,Styrbjörn,Tajikistan,metal,5,bend,false
+782,Célia,Philippines,arena rock,6,bend,true
+783,Célia,Vietnam,pop,1,soloist,true
+784,Hélèna,Honduras,rock,7,bend,false
+785,Faîtes,China,jazz,3,bend,true
+786,Mélina,Guatemala,jazz,2,bend,false
+787,Naëlle,Thailand,indie pop,14,bend,true
+788,Maëlla,Peru,punk,10,bend,true
+789,Yú,China,blues,6,bend,true
+790,Cécile,China,rock,5,bend,true
+791,Garçon,Sweden,rock,12,bend,false
+792,Frédérique,Indonesia,indie pop,15,bend,true
+793,Maëline,China,rock,7,bend,false
+794,Mahélie,Norway,rap,3,bend,false
+795,Félicie,Czech Republic,jazz,11,bend,false
+796,Athéna,Cameroon,arena rock,10,bend,true
+797,Léonore,Argentina,indie pop,2,bend,true
+798,Ruò,Philippines,punk,9,bend,false
+799,Laurène,Argentina,rap,8,bend,false
+800,Josée,Peru,rap,12,bend,false
+801,Solène,Philippines,rap,4,bend,true
+802,Yáo,China,pop,8,bend,true
+803,Gwenaëlle,France,blues,9,bend,true
+804,Eloïse,Russia,blues,12,bend,true
+805,Noémie,Ukraine,rock,12,bend,true
+806,Pò,Yemen,metal,12,bend,false
+807,Anaëlle,Poland,punk,11,bend,false
+808,Táng,Poland,punk,6,bend,false
+809,Mà,Argentina,metal,11,bend,false
+810,Clémence,China,rock,11,bend,true
+811,Adèle,France,pop,13,bend,true
+812,Renée,Indonesia,indie pop,2,bend,false
+813,Marie-thérèse,France,blues,2,bend,true
+814,Styrbjörn,Colombia,punk,1,soloist,true
+815,Marie-josée,Yemen,pop,11,bend,true
+816,Annotée,China,arena rock,1,soloist,true
+817,Gisèle,Belarus,arena rock,13,bend,true
+818,Styrbjörn,China,metal,11,bend,true
+819,Desirée,Sweden,pop,14,bend,false
+820,Kallisté,Bangladesh,pop,7,bend,true
+821,Médiamass,China,arena rock,3,bend,false
+822,Andréanne,France,arena rock,3,bend,false
+823,Dù,Vietnam,punk,14,bend,false
+824,Mélina,Russia,jazz,1,soloist,true
+825,Maïlis,Russia,arena rock,7,bend,false
+826,Fèi,Ukraine,indie pop,9,bend,false
+827,Anaëlle,Myanmar,punk,6,bend,true
+828,Pål,Ukraine,metal,5,bend,true
+829,Maëlann,Indonesia,rock,15,bend,false
+830,Lyséa,Indonesia,rock,9,bend,true
+831,Marie-thérèse,Poland,punk,3,bend,false
+832,Yáo,Brazil,rap,1,DJ,true
+833,Amélie,Cuba,rock,2,bend,true
+834,Annotée,Brazil,jazz,9,bend,true
+835,Lorène,Czech Republic,punk,8,bend,true
+836,Styrbjörn,United States,arena rock,1,soloist,true
+837,Gwenaëlle,Cuba,blues,11,bend,true
+838,Intéressant,Mongolia,indie pop,13,bend,false
+839,Renée,Indonesia,blues,3,bend,true
+840,Tán,Chad,blues,8,bend,false
+841,Marie-thérèse,China,metal,5,bend,false
+842,Marylène,China,pop,11,bend,false
+843,Publicité,Indonesia,metal,5,bend,true
+844,Maïté,Poland,pop,12,bend,false
+845,Ophélie,Philippines,punk,7,bend,false
+846,Gaïa,China,punk,11,bend,true
+847,Liè,Germany,indie pop,1,DJ,true
+848,Gwenaëlle,Philippines,jazz,8,bend,true
+849,Réservés,China,rap,7,bend,false
+850,Maïté,China,pop,12,bend,false
+851,Fèi,Russia,metal,15,bend,true
+852,Zhì,Mexico,rock,5,bend,false
+853,Mà,Japan,indie pop,7,bend,true
+854,Bérengère,South Korea,pop,13,bend,true
+855,Frédérique,Malta,rap,5,bend,false
+856,Stévina,Portugal,indie pop,4,bend,true
+857,Håkan,Greece,rock,11,bend,true
+858,Eloïse,China,rock,7,bend,true
+859,Edmée,China,jazz,9,bend,true
+860,Adélaïde,China,pop,12,bend,true
+861,Marie-josée,North Korea,pop,11,bend,true
+862,Léandre,United States,pop,4,bend,true
+863,Adélie,China,arena rock,4,bend,true
+864,Hélène,Portugal,arena rock,2,bend,false
+865,Kévina,Philippines,blues,14,bend,false
+866,Anaé,France,rap,11,bend,true
+867,Eugénie,China,rap,1,soloist,true
+868,Maéna,China,pop,3,bend,true
+869,Méghane,Russia,metal,2,bend,true
+870,Desirée,China,indie pop,11,bend,true
+871,Uò,Sweden,rap,14,bend,false
+872,Mégane,Portugal,arena rock,13,bend,true
+873,Bérangère,Ireland,arena rock,12,bend,true
+874,Méryl,Greece,blues,6,bend,false
+875,Vénus,Indonesia,arena rock,7,bend,false
+876,Cléopatre,China,arena rock,9,bend,true
+877,Naéva,Peru,indie pop,5,bend,false
+878,Océane,Portugal,punk,3,bend,false
+879,Yáo,Russia,rock,15,bend,false
+880,Mégane,Philippines,rock,13,bend,true
+881,Cécilia,Sweden,indie pop,5,bend,true
+882,Gwenaëlle,Portugal,rock,7,bend,false
+883,Méng,Russia,pop,11,bend,true
+884,Nadège,Estonia,rock,7,bend,true
+885,Ophélie,South Sudan,punk,10,bend,false
+886,Léandre,United States,metal,3,bend,true
+887,Sòng,China,blues,12,bend,true
+888,Noémie,Philippines,indie pop,12,bend,false
+889,Adélaïde,Brazil,metal,10,bend,false
+890,Dà,China,punk,13,bend,true
+891,Océane,Russia,pop,14,bend,false
+892,Estée,Greece,blues,15,bend,true
+893,Pélagie,Philippines,arena rock,4,bend,false
+894,Ruì,China,indie pop,7,bend,false
+895,Angèle,Indonesia,rap,6,bend,true
+896,Dafnée,Finland,indie pop,14,bend,false
+897,Yénora,Serbia,jazz,14,bend,false
+898,Aloïs,Sweden,rock,7,bend,true
+899,Lén,Panama,pop,14,bend,true
+900,Estève,China,rock,4,bend,true
+901,Bérengère,Russia,punk,8,bend,true
+902,Océane,Indonesia,rock,15,bend,true
+903,Cléopatre,Indonesia,indie pop,8,bend,false
+904,Béatrice,Syria,rap,2,bend,false
+905,Méthode,Poland,jazz,9,bend,false
+906,Bérénice,France,indie pop,7,bend,false
+907,Naëlle,China,metal,6,bend,true
+908,Léonie,China,indie pop,5,bend,true
+909,Nadège,Philippines,rap,5,bend,true
+910,Josée,Croatia,pop,3,bend,true
+911,Sòng,China,metal,2,bend,true
+912,Pélagie,Ukraine,jazz,11,bend,false
+913,Eliès,Indonesia,rock,1,DJ,false
+914,Annotés,France,pop,3,bend,true
+915,Irène,South Korea,blues,3,bend,true
+916,Estève,Denmark,rap,1,DJ,true
+917,Néhémie,Portugal,jazz,11,bend,true
+918,Bénédicte,Costa Rica,rap,5,bend,true
+919,Crééz,United States,jazz,1,DJ,false
+920,Laurélie,Indonesia,jazz,7,bend,true
+921,Ráo,Denmark,arena rock,10,bend,false
+922,Mélina,Philippines,indie pop,4,bend,true
+923,Léa,Russia,blues,3,bend,true
+924,Táng,Kyrgyzstan,blues,15,bend,false
+925,Liè,Guatemala,rap,3,bend,true
+926,Yáo,Colombia,rock,8,bend,false
+927,Yénora,Morocco,rap,2,bend,false
+928,Magdalène,Japan,blues,10,bend,false
+929,Léonie,China,jazz,11,bend,true
+930,Nadège,Peru,punk,7,bend,false
+931,Mà,Kiribati,indie pop,7,bend,true
+932,Pò,Panama,rock,3,bend,false
+933,Océanne,Brazil,punk,1,DJ,false
+934,Yáo,Canada,blues,10,bend,false
+935,Stéphanie,Poland,indie pop,14,bend,false
+936,Yénora,Malaysia,rap,1,DJ,false
+937,Dù,Chile,indie pop,6,bend,true
+938,Réjane,Nigeria,arena rock,4,bend,false
+939,Gaëlle,Namibia,metal,2,bend,true
+940,Almérinda,United States,jazz,7,bend,true
+941,Agnès,Albania,punk,3,bend,false
+942,Marie-josée,Indonesia,metal,11,bend,true
+943,Yú,Philippines,jazz,8,bend,true
+944,Illustrée,Brazil,jazz,1,soloist,false
+945,Personnalisée,Brazil,indie pop,10,bend,true
+946,Miléna,Philippines,rock,2,bend,true
+947,Publicité,Russia,jazz,14,bend,false
+948,Alizée,Poland,pop,2,bend,false
+949,Léandre,Pakistan,rock,14,bend,false
+950,Maëlyss,France,jazz,15,bend,false
+951,Solène,China,rock,1,soloist,false
+952,Chloé,Brazil,rap,5,bend,false
+953,Aloïs,Thailand,blues,14,bend,false
+954,Yóu,Iraq,blues,3,bend,true
+955,Irène,Philippines,arena rock,4,bend,true
+956,Aurélie,Mexico,arena rock,2,bend,false
+957,Néhémie,Indonesia,jazz,13,bend,false
+958,Kuí,Brazil,metal,10,bend,true
+959,Aimée,Libya,pop,1,DJ,false
+960,Marlène,Peru,arena rock,13,bend,true
+961,Jú,Costa Rica,metal,12,bend,true
+962,Mélia,United States,rap,14,bend,true
+963,Dorothée,Philippines,indie pop,1,soloist,false
+964,Nadège,Canada,indie pop,5,bend,true
+965,Yú,China,blues,8,bend,true
+966,Estée,France,pop,5,bend,false
+967,Clémentine,Portugal,indie pop,3,bend,true
+968,Célia,Serbia,metal,4,bend,false
+969,Maïlys,Portugal,jazz,15,bend,false
+970,Annotés,Brazil,jazz,11,bend,false
+971,Hélène,Yemen,indie pop,6,bend,true
+972,Simplifiés,Cuba,metal,14,bend,false
+973,Aí,China,rap,11,bend,false
+974,Anaël,Australia,rap,3,bend,false
+975,Maéna,Indonesia,punk,6,bend,false
+976,Sòng,Slovenia,punk,8,bend,false
+977,Angélique,Philippines,punk,15,bend,true
+978,Gaïa,Sao Tome and Principe,pop,5,bend,false
+979,Océane,China,rock,11,bend,false
+980,Cinéma,Indonesia,rap,7,bend,false
+981,Méline,Ukraine,rap,13,bend,false
+982,Tú,China,metal,7,bend,false
+983,Örjan,Ivory Coast,indie pop,10,bend,false
+984,Dafnée,Czech Republic,pop,14,bend,true
+985,Laurène,Philippines,arena rock,4,bend,false
+986,Gérald,Indonesia,metal,8,bend,false
+987,Rébecca,Philippines,metal,2,bend,true
+988,Géraldine,Portugal,indie pop,1,DJ,true
+989,Laïla,Indonesia,jazz,6,bend,true
+990,Loïs,Russia,rock,4,bend,false
+991,Françoise,Peru,arena rock,10,bend,true
+992,Yóu,Ukraine,rap,13,bend,false
+993,Cunégonde,China,metal,11,bend,true
+994,Maëly,Russia,arena rock,4,bend,true
+995,Mélanie,Russia,jazz,15,bend,true
+996,Frédérique,Russia,jazz,12,bend,false
+997,Marie-thérèse,Sweden,metal,15,bend,false
+998,Céline,Ecuador,indie pop,7,bend,true
+999,Chloé,Brazil,jazz,9,bend,false
+1000,Ruì,China,jazz,15,bend,false
